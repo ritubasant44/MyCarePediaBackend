@@ -1,0 +1,4762 @@
+[
+    {
+      "PayerCode": "BO00017",
+      "PayerName": "47198 BO"
+    },
+    {
+      "PayerCode": "00283",
+      "PayerName": "AARP (A United HealthCare Insurance Company)"
+    },
+    {
+      "PayerCode": "DE001",
+      "PayerName": "AARP Dental"
+    },
+    {
+      "PayerCode": "00344",
+      "PayerName": "Absolute Total Care"
+    },
+    {
+      "PayerCode": "BO10061",
+      "PayerName": "ACCESS IPA BO"
+    },
+    {
+      "PayerCode": "01410",
+      "PayerName": "Acclaim Inc"
+    },
+    {
+      "PayerCode": "000947",
+      "PayerName": "ACS Benefit Services"
+    },
+    {
+      "PayerCode": "BO00013",
+      "PayerName": "Adavanced Primary Care Network BO"
+    },
+    {
+      "PayerCode": "00468",
+      "PayerName": "Administrative Services Inc"
+    },
+    {
+      "PayerCode": "00345",
+      "PayerName": "Advantage by Bridgeway Health Solutions"
+    },
+    {
+      "PayerCode": "00346",
+      "PayerName": "Advantage by Buckeye Community Health Plan"
+    },
+    {
+      "PayerCode": "00347",
+      "PayerName": "Advantage by Managed Health Services"
+    },
+    {
+      "PayerCode": "00348",
+      "PayerName": "Advantage by Superior HealthPlan"
+    },
+    {
+      "PayerCode": "DE002",
+      "PayerName": "Advantica Benefits Dental"
+    },
+    {
+      "PayerCode": "00292",
+      "PayerName": "ADVANTRA (TEXAS, NEW MEXICO, ARIZONA ONLY)"
+    },
+    {
+      "PayerCode": "00001",
+      "PayerName": "Aetna"
+    },
+    {
+      "PayerCode": "00501",
+      "PayerName": "Aetna American Continental Ins Co"
+    },
+    {
+      "PayerCode": "00979",
+      "PayerName": "Aetna Better Health (CA)"
+    },
+    {
+      "PayerCode": "00980",
+      "PayerName": "Aetna Better Health (FL)"
+    },
+    {
+      "PayerCode": "000936",
+      "PayerName": "AETNA BETTER HEALTH (IL)"
+    },
+    {
+      "PayerCode": "01411",
+      "PayerName": "Aetna Better Health (KS)"
+    },
+    {
+      "PayerCode": "000937",
+      "PayerName": "AETNA BETTER HEALTH (KY)"
+    },
+    {
+      "PayerCode": "000938",
+      "PayerName": "AETNA BETTER HEALTH (LA)"
+    },
+    {
+      "PayerCode": "00981",
+      "PayerName": "Aetna Better Health (MD)"
+    },
+    {
+      "PayerCode": "000939",
+      "PayerName": "AETNA BETTER HEALTH (MI)"
+    },
+    {
+      "PayerCode": "000940",
+      "PayerName": "AETNA BETTER HEALTH (MO)"
+    },
+    {
+      "PayerCode": "000942",
+      "PayerName": "AETNA BETTER HEALTH (NJ)"
+    },
+    {
+      "PayerCode": "00982",
+      "PayerName": "Aetna Better Health (NV)"
+    },
+    {
+      "PayerCode": "000943",
+      "PayerName": "AETNA BETTER HEALTH (PA)"
+    },
+    {
+      "PayerCode": "000944",
+      "PayerName": "AETNA BETTER HEALTH (TX)"
+    },
+    {
+      "PayerCode": "000945",
+      "PayerName": "AETNA BETTER HEALTH (TX) CHIP"
+    },
+    {
+      "PayerCode": "000946",
+      "PayerName": "AETNA BETTER HEALTH (WV)"
+    },
+    {
+      "PayerCode": "000935",
+      "PayerName": "AETNA BETTER HEALTH VIRGINIA"
+    },
+    {
+      "PayerCode": "DE003",
+      "PayerName": "Aetna Dental"
+    },
+    {
+      "PayerCode": "00010",
+      "PayerName": "Aetna Long Term Care"
+    },
+    {
+      "PayerCode": "00983",
+      "PayerName": "Aetna Retiree Medical Plan - Administrator"
+    },
+    {
+      "PayerCode": "00677",
+      "PayerName": "Aetna Senior Supplemental"
+    },
+    {
+      "PayerCode": "BO00034",
+      "PayerName": "Affinity BO"
+    },
+    {
+      "PayerCode": "000948",
+      "PayerName": "Affinity Essentials"
+    },
+    {
+      "PayerCode": "00349",
+      "PayerName": "Affinity Health Plan"
+    },
+    {
+      "PayerCode": "00469",
+      "PayerName": "Affinity Health Plan Medicare"
+    },
+    {
+      "PayerCode": "000949",
+      "PayerName": "AFLAC"
+    },
+    {
+      "PayerCode": "00011",
+      "PayerName": "AFLAC - Dental"
+    },
+    {
+      "PayerCode": "00470",
+      "PayerName": "AFLAC - Medicare Supplemental"
+    },
+    {
+      "PayerCode": "00986",
+      "PayerName": "AGIA. Inc. "
+    },
+    {
+      "PayerCode": "00013",
+      "PayerName": "Alabama Medicaid"
+    },
+    {
+      "PayerCode": "DE0068",
+      "PayerName": "Alabama Medicaid Dental"
+    },
+    {
+      "PayerCode": "00459",
+      "PayerName": "Alameda Alliance Health Plan"
+    },
+    {
+      "PayerCode": "000951",
+      "PayerName": "Alaska Medicaid"
+    },
+    {
+      "PayerCode": "BO00062",
+      "PayerName": "Alicare Multiplan-BO"
+    },
+    {
+      "PayerCode": "01345",
+      "PayerName": "ALIERA HEALTH CARE"
+    },
+    {
+      "PayerCode": "00635",
+      "PayerName": "All Savers Life Insurance"
+    },
+    {
+      "PayerCode": "00471",
+      "PayerName": "Allegiance Benefit Plan Management"
+    },
+    {
+      "PayerCode": "00988",
+      "PayerName": "Alliant Health Plans"
+    },
+    {
+      "PayerCode": "00636",
+      "PayerName": "Allied Benefit Systems"
+    },
+    {
+      "PayerCode": "BO00035",
+      "PayerName": "Allied Benefits-BO"
+    },
+    {
+      "PayerCode": "01346",
+      "PayerName": "Allina Health Aetna"
+    },
+    {
+      "PayerCode": "BO000214",
+      "PayerName": "Allways Health"
+    },
+    {
+      "PayerCode": "01336",
+      "PayerName": "ALLWELL"
+    },
+    {
+      "PayerCode": "00989",
+      "PayerName": "AlohaCare"
+    },
+    {
+      "PayerCode": "BO00024",
+      "PayerName": "ALTAMED HEALTH SERVICES-BO"
+    },
+    {
+      "PayerCode": "00990",
+      "PayerName": "Alternative Insurance Resources, Inc"
+    },
+    {
+      "PayerCode": "DE0129",
+      "PayerName": "Altus Dental"
+    },
+    {
+      "PayerCode": "01328",
+      "PayerName": "AMBETTER"
+    },
+    {
+      "PayerCode": "00991",
+      "PayerName": "Ambetter of Arkansas"
+    },
+    {
+      "PayerCode": "00670",
+      "PayerName": "Ambetter Superior Health Plan"
+    },
+    {
+      "PayerCode": "00637",
+      "PayerName": "Ameriben"
+    },
+    {
+      "PayerCode": "000918",
+      "PayerName": "American Behavioral Benefit Managers"
+    },
+    {
+      "PayerCode": "00316",
+      "PayerName": "American Family Insurance Group - Medicare Supplemental and PPO Policies"
+    },
+    {
+      "PayerCode": "DE004",
+      "PayerName": "American Family Life Assurance Co. (AFLAC) Dental"
+    },
+    {
+      "PayerCode": "00021",
+      "PayerName": "American General Life and Accident"
+    },
+    {
+      "PayerCode": "00467",
+      "PayerName": "American Health Medicare"
+    },
+    {
+      "PayerCode": "00992",
+      "PayerName": "American Income Life Ins.Co."
+    },
+    {
+      "PayerCode": "00993",
+      "PayerName": "American Medical Security (AMS)"
+    },
+    {
+      "PayerCode": "00412",
+      "PayerName": "American National Insurance Company"
+    },
+    {
+      "PayerCode": "00413",
+      "PayerName": "American National Life Insurance Company of Texas"
+    },
+    {
+      "PayerCode": "00994",
+      "PayerName": "American Network Ins. Medicare Supplement"
+    },
+    {
+      "PayerCode": "00022",
+      "PayerName": "American Postal Workers Union (APWU)"
+    },
+    {
+      "PayerCode": "00023",
+      "PayerName": "American Republic Insurance Company (ARIC)"
+    },
+    {
+      "PayerCode": "MD002",
+      "PayerName": "American Republic Insurance Company (ARIC)"
+    },
+    {
+      "PayerCode": "00350",
+      "PayerName": "American Retirement Life Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "00024",
+      "PayerName": "AmeriChoice of New Jersey (Commercial)"
+    },
+    {
+      "PayerCode": "01412",
+      "PayerName": "AmeriChoice of New Jersey (Medicaid)"
+    },
+    {
+      "PayerCode": "00995",
+      "PayerName": "Americo Financial Life & Annuity"
+    },
+    {
+      "PayerCode": "00025",
+      "PayerName": "AMERIGROUP"
+    },
+    {
+      "PayerCode": "000929",
+      "PayerName": "AmeriHealth (DE, NJ, PA)"
+    },
+    {
+      "PayerCode": "00460",
+      "PayerName": "AmeriHealth Administrators"
+    },
+    {
+      "PayerCode": "00996",
+      "PayerName": "AmeriHealth Caritas DC"
+    },
+    {
+      "PayerCode": "01413",
+      "PayerName": "AmeriHealth Caritas Delaware"
+    },
+    {
+      "PayerCode": "00997",
+      "PayerName": "AmeriHealth Caritas Iowa"
+    },
+    {
+      "PayerCode": "00998",
+      "PayerName": "AmeriHealth Caritas Louisiana (LaCare)"
+    },
+    {
+      "PayerCode": "00351",
+      "PayerName": "AmeriHealth Caritas PA"
+    },
+    {
+      "PayerCode": "00999",
+      "PayerName": "AmeriHealth Caritas VIP Care Plus"
+    },
+    {
+      "PayerCode": "01000",
+      "PayerName": "AmeriHealth New Jersey"
+    },
+    {
+      "PayerCode": "01001",
+      "PayerName": "AmeriHealth Northeast Pennsylvania"
+    },
+    {
+      "PayerCode": "01002",
+      "PayerName": "AmeriHealth Pennsylvania "
+    },
+    {
+      "PayerCode": "01003",
+      "PayerName": "AmeriHealth VIP Care"
+    },
+    {
+      "PayerCode": "BO00061",
+      "PayerName": "Amerisure-BO"
+    },
+    {
+      "PayerCode": "00026",
+      "PayerName": "Ameritas Life"
+    },
+    {
+      "PayerCode": "DE0137",
+      "PayerName": "Ameritas Life Insurance Company Dental"
+    },
+    {
+      "PayerCode": "BO00033",
+      "PayerName": "Angeles IPA-BO"
+    },
+    {
+      "PayerCode": "00352",
+      "PayerName": "Antares"
+    },
+    {
+      "PayerCode": "01347",
+      "PayerName": "ANTHEM - GA"
+    },
+    {
+      "PayerCode": "00036",
+      "PayerName": "Anthem BCBS Kentucky"
+    },
+    {
+      "PayerCode": "DE0055",
+      "PayerName": "Anthem Blue Cross CA Dental"
+    },
+    {
+      "PayerCode": "01004",
+      "PayerName": "Apex Benefits Services"
+    },
+    {
+      "PayerCode": "BO00028",
+      "PayerName": "APPLECARE MEDICAL GROUP-BO"
+    },
+    {
+      "PayerCode": "01325",
+      "PayerName": "Arbor Health Plan"
+    },
+    {
+      "PayerCode": "00461",
+      "PayerName": "Arbor Health Plan (Only Nebraska Area)"
+    },
+    {
+      "PayerCode": "01005",
+      "PayerName": "Arise Health Care"
+    },
+    {
+      "PayerCode": "01006",
+      "PayerName": "Arise Health Plan Medicare Select Policy"
+    },
+    {
+      "PayerCode": "01348",
+      "PayerName": "ARIZONA COMPLETE HEALTH"
+    },
+    {
+      "PayerCode": "00027",
+      "PayerName": "Arizona Medicaid (AHCCCS)"
+    },
+    {
+      "PayerCode": "DE0069",
+      "PayerName": "Arizona Medicaid Dental"
+    },
+    {
+      "PayerCode": "00205",
+      "PayerName": "Arizona Physician's IPA"
+    },
+    {
+      "PayerCode": "00028",
+      "PayerName": "Arkansas Medicaid"
+    },
+    {
+      "PayerCode": "DE0070",
+      "PayerName": "Arkansas Medicaid Dental"
+    },
+    {
+      "PayerCode": "01349",
+      "PayerName": "ARKANSAS TOTAL CARE"
+    },
+    {
+      "PayerCode": "01350",
+      "PayerName": "ARNETT HEALTH PLANS"
+    },
+    {
+      "PayerCode": "01400",
+      "PayerName": "ASR Health Benefits"
+    },
+    {
+      "PayerCode": "01007",
+      "PayerName": "Associacion De Maestros Puerto Rico"
+    },
+    {
+      "PayerCode": "BO00026",
+      "PayerName": "ASSOCIATED HISPANIC PHYS.-BO"
+    },
+    {
+      "PayerCode": "00411",
+      "PayerName": "Asuris Northwest Health"
+    },
+    {
+      "PayerCode": "00318",
+      "PayerName": "Aultcare"
+    },
+    {
+      "PayerCode": "01008",
+      "PayerName": "Automated Benefit Services"
+    },
+    {
+      "PayerCode": "01009",
+      "PayerName": "Auxiant"
+    },
+    {
+      "PayerCode": "01010",
+      "PayerName": "Avalon Administrative Services"
+    },
+    {
+      "PayerCode": "000896",
+      "PayerName": "Avera Health Plan"
+    },
+    {
+      "PayerCode": "00206",
+      "PayerName": "AvMed Health Plans"
+    },
+    {
+      "PayerCode": "01011",
+      "PayerName": "Bankers Fidelity Life Insurance Company"
+    },
+    {
+      "PayerCode": "01012",
+      "PayerName": "Bankers Life & Casualty"
+    },
+    {
+      "PayerCode": "000926",
+      "PayerName": "Bankers Life And Casualty - EDI"
+    },
+    {
+      "PayerCode": "BO00063",
+      "PayerName": "Bankers Life And Casualty-BO"
+    },
+    {
+      "PayerCode": "01351",
+      "PayerName": "Banner Aetna"
+    },
+    {
+      "PayerCode": "01013",
+      "PayerName": "Banner University Family Care"
+    },
+    {
+      "PayerCode": "01401",
+      "PayerName": "Baycare Select Health Plan"
+    },
+    {
+      "PayerCode": "01329",
+      "PayerName": "BC ILLINOIS MEDICARE ADVANTAGE"
+    },
+    {
+      "PayerCode": "01330",
+      "PayerName": "BC MONTANA MEDICARE ADVANTAGE"
+    },
+    {
+      "PayerCode": "01331",
+      "PayerName": "BC NEW MEXICO MEDICARE ADVANTAGE"
+    },
+    {
+      "PayerCode": "01332",
+      "PayerName": "BC OKLAHOMA MEDICARE ADVANTAGE"
+    },
+    {
+      "PayerCode": "01333",
+      "PayerName": "BC TEXAS MEDICARE ADVANTAGE"
+    },
+    {
+      "PayerCode": "000931",
+      "PayerName": "BCBS ANTHEM VIVITY"
+    },
+    {
+      "PayerCode": "00462",
+      "PayerName": "BCBS Of Alabama (Institutional)"
+    },
+    {
+      "PayerCode": "01014",
+      "PayerName": "BCBS of Alaska (Premera)"
+    },
+    {
+      "PayerCode": "00029",
+      "PayerName": "BCBS of Arizona"
+    },
+    {
+      "PayerCode": "00030",
+      "PayerName": "BCBS of Arkansas"
+    },
+    {
+      "PayerCode": "00330",
+      "PayerName": "BCBS of Central New York"
+    },
+    {
+      "PayerCode": "00031",
+      "PayerName": "BCBS of Connecticut"
+    },
+    {
+      "PayerCode": "01015",
+      "PayerName": "BCBS of Delaware"
+    },
+    {
+      "PayerCode": "00032",
+      "PayerName": "BCBS of Georgia"
+    },
+    {
+      "PayerCode": "00463",
+      "PayerName": "BCBS of Hawaii"
+    },
+    {
+      "PayerCode": "00033",
+      "PayerName": "BCBS of Illinois"
+    },
+    {
+      "PayerCode": "00034",
+      "PayerName": "BCBS of Indiana"
+    },
+    {
+      "PayerCode": "00037",
+      "PayerName": "BCBS of Louisiana"
+    },
+    {
+      "PayerCode": "00038",
+      "PayerName": "BCBS of Maine"
+    },
+    {
+      "PayerCode": "01016",
+      "PayerName": "BCBS of Michigan (Professional)"
+    },
+    {
+      "PayerCode": "00039",
+      "PayerName": "BCBS of Michigan (Thru Blue Exchange)"
+    },
+    {
+      "PayerCode": "00040",
+      "PayerName": "BCBS of Minnesota"
+    },
+    {
+      "PayerCode": "00041",
+      "PayerName": "BCBS of Mississippi"
+    },
+    {
+      "PayerCode": "00042",
+      "PayerName": "BCBS of Missouri"
+    },
+    {
+      "PayerCode": "00475",
+      "PayerName": "BCBS of Montana"
+    },
+    {
+      "PayerCode": "00043",
+      "PayerName": "BCBS of Nevada"
+    },
+    {
+      "PayerCode": "00044",
+      "PayerName": "BCBS of New Hampshire"
+    },
+    {
+      "PayerCode": "00045",
+      "PayerName": "BCBS of New Jersey (Horizon)"
+    },
+    {
+      "PayerCode": "00046",
+      "PayerName": "BCBS of New Mexico"
+    },
+    {
+      "PayerCode": "00047",
+      "PayerName": "BCBS of New York (Empire)"
+    },
+    {
+      "PayerCode": "00465",
+      "PayerName": "BCBS of New York (Excellus)"
+    },
+    {
+      "PayerCode": "00311",
+      "PayerName": "BCBS of North Dakota"
+    },
+    {
+      "PayerCode": "00048",
+      "PayerName": "BCBS of Ohio"
+    },
+    {
+      "PayerCode": "00454",
+      "PayerName": "BCBS of Oklahoma"
+    },
+    {
+      "PayerCode": "00049",
+      "PayerName": "BCBS of Oregon (Regence)"
+    },
+    {
+      "PayerCode": "00050",
+      "PayerName": "BCBS of Pennsylvania (Highmark)"
+    },
+    {
+      "PayerCode": "00476",
+      "PayerName": "BCBS of Pennsylvania (Highmark) [Institutional]"
+    },
+    {
+      "PayerCode": "00051",
+      "PayerName": "BCBS of Rhode Island"
+    },
+    {
+      "PayerCode": "DE0056",
+      "PayerName": "BCBS of Rochester New York Dental"
+    },
+    {
+      "PayerCode": "00308",
+      "PayerName": "BCBS of the Rochester Area (NY)"
+    },
+    {
+      "PayerCode": "00309",
+      "PayerName": "BCBS of Utica-Watertown (NY)"
+    },
+    {
+      "PayerCode": "00477",
+      "PayerName": "BCBS of Vermont"
+    },
+    {
+      "PayerCode": "00052",
+      "PayerName": "BCBS of Virginia"
+    },
+    {
+      "PayerCode": "00331",
+      "PayerName": "BCBS of West Virginia"
+    },
+    {
+      "PayerCode": "00325",
+      "PayerName": "BCBS of Western New York"
+    },
+    {
+      "PayerCode": "00053",
+      "PayerName": "BCBS of Wisconsin"
+    },
+    {
+      "PayerCode": "00312",
+      "PayerName": "BCBS of Wyoming"
+    },
+    {
+      "PayerCode": "01300",
+      "PayerName": "BCBS Puerto Rico(Triple-S Salud)"
+    },
+    {
+      "PayerCode": "01017",
+      "PayerName": "BCBS Texas Medicaid STAR CHIP"
+    },
+    {
+      "PayerCode": "01352",
+      "PayerName": "BCBS TEXAS MEDICAID STAR Kids"
+    },
+    {
+      "PayerCode": "01353",
+      "PayerName": "BCBSMN BLUE PLUS MEDICAID"
+    },
+    {
+      "PayerCode": "01354",
+      "PayerName": "BCBSMN BLUE PLUS MEDICAID NON-EMERG TRANSPORTATION"
+    },
+    {
+      "PayerCode": "01019",
+      "PayerName": "Behavioral Health Systems, Inc."
+    },
+    {
+      "PayerCode": "00478",
+      "PayerName": "Benefit Management Inc"
+    },
+    {
+      "PayerCode": "00419",
+      "PayerName": "Best Choice Health Plan"
+    },
+    {
+      "PayerCode": "00055",
+      "PayerName": "Better Health Plans (Unison Health Plan)"
+    },
+    {
+      "PayerCode": "01020",
+      "PayerName": "Better Health Plans of Florida"
+    },
+    {
+      "PayerCode": "01378",
+      "PayerName": "BIND"
+    },
+    {
+      "PayerCode": "01021",
+      "PayerName": "Blue Benefit Administrators of Mass"
+    },
+    {
+      "PayerCode": "DE0126",
+      "PayerName": "Blue Cross Blue Sheild Delaware Fully - Insured Dental Group Business"
+    },
+    {
+      "PayerCode": "00207",
+      "PayerName": "Blue Cross Blue Shield Alabama (Commercial)"
+    },
+    {
+      "PayerCode": "00209",
+      "PayerName": "Blue Cross Blue Shield Alaska (Premera)"
+    },
+    {
+      "PayerCode": "00210",
+      "PayerName": "Blue Cross Blue Shield Colorado"
+    },
+    {
+      "PayerCode": "00282",
+      "PayerName": "Blue Cross Blue Shield Delaware (Carefirst)"
+    },
+    {
+      "PayerCode": "00288",
+      "PayerName": "Blue Cross Blue Shield District of Columbia (Carefirst)"
+    },
+    {
+      "PayerCode": "00211",
+      "PayerName": "Blue Cross Blue Shield Florida"
+    },
+    {
+      "PayerCode": "00212",
+      "PayerName": "Blue Cross Blue Shield Iowa (Wellmark)"
+    },
+    {
+      "PayerCode": "00213",
+      "PayerName": "Blue Cross Blue Shield Kansas"
+    },
+    {
+      "PayerCode": "00306",
+      "PayerName": "Blue Cross Blue Shield Kansas City"
+    },
+    {
+      "PayerCode": "00289",
+      "PayerName": "Blue Cross Blue Shield Maryland (Carefirst)"
+    },
+    {
+      "PayerCode": "00214",
+      "PayerName": "Blue Cross Blue Shield Massachusetts"
+    },
+    {
+      "PayerCode": "00215",
+      "PayerName": "Blue Cross Blue Shield Nebraska"
+    },
+    {
+      "PayerCode": "00216",
+      "PayerName": "Blue Cross Blue Shield North Carolina"
+    },
+    {
+      "PayerCode": "DE0057",
+      "PayerName": "Blue Cross Blue Shield of Kansas City MO Dental"
+    },
+    {
+      "PayerCode": "DE0058",
+      "PayerName": "Blue Cross Blue Shield of Massachusetts Dental"
+    },
+    {
+      "PayerCode": "DE0059",
+      "PayerName": "Blue Cross Blue Shield of South Carolina Dental"
+    },
+    {
+      "PayerCode": "00217",
+      "PayerName": "Blue Cross Blue Shield South Carolina"
+    },
+    {
+      "PayerCode": "00218",
+      "PayerName": "Blue Cross Blue Shield South Dakota (Wellmark)"
+    },
+    {
+      "PayerCode": "00219",
+      "PayerName": "Blue Cross Blue Shield Tennessee"
+    },
+    {
+      "PayerCode": "00220",
+      "PayerName": "Blue Cross Blue Shield Texas"
+    },
+    {
+      "PayerCode": "01355",
+      "PayerName": "BLUE CROSS COMMUNITY CENTENNIAL"
+    },
+    {
+      "PayerCode": "01356",
+      "PayerName": "BLUE CROSS COMMUNITY HEALTH PLANS"
+    },
+    {
+      "PayerCode": "01022",
+      "PayerName": "Blue Cross Community Options"
+    },
+    {
+      "PayerCode": "DE0060",
+      "PayerName": "Blue Cross of Arkansas Dental"
+    },
+    {
+      "PayerCode": "00002",
+      "PayerName": "Blue Cross of California"
+    },
+    {
+      "PayerCode": "00056",
+      "PayerName": "Blue Cross of Idaho"
+    },
+    {
+      "PayerCode": "00057",
+      "PayerName": "Blue Cross of Northeastern Pennsylvania"
+    },
+    {
+      "PayerCode": "01023",
+      "PayerName": "Blue Cross of Utah (Regence)"
+    },
+    {
+      "PayerCode": "00221",
+      "PayerName": "Blue Cross Washington (Premera)"
+    },
+    {
+      "PayerCode": "S001",
+      "PayerName": "Blue Exchange"
+    },
+    {
+      "PayerCode": "BO00002",
+      "PayerName": "Blue Shield of CA - Pending Eligibility"
+    },
+    {
+      "PayerCode": "01405",
+      "PayerName": "Blue Shield of CA Promise - All Numeric Member ID"
+    },
+    {
+      "PayerCode": "00003",
+      "PayerName": "Blue Shield of California"
+    },
+    {
+      "PayerCode": "01322",
+      "PayerName": "Blue Shield of Idaho"
+    },
+    {
+      "PayerCode": "00480",
+      "PayerName": "Blue Shield of North Eastern New York"
+    },
+    {
+      "PayerCode": "DE0127",
+      "PayerName": "Blue Shield of Pennsylvania Dental Plus"
+    },
+    {
+      "PayerCode": "00058",
+      "PayerName": "Blue Shield of Washington (Regence)"
+    },
+    {
+      "PayerCode": "00284",
+      "PayerName": "BlueChoice HealthPlan South Carolina Medicaid"
+    },
+    {
+      "PayerCode": "DE0061",
+      "PayerName": "BlueCross BlueShield of National Capital Area (CareFirst) Dental"
+    },
+    {
+      "PayerCode": "01357",
+      "PayerName": "BLUECROSS BLUESHIELD OF WESTERN NEW YORK MEDICAID"
+    },
+    {
+      "PayerCode": "01024",
+      "PayerName": "BlueCross Medicare Advantage"
+    },
+    {
+      "PayerCode": "00290",
+      "PayerName": "Bluegrass Family Health"
+    },
+    {
+      "PayerCode": "00399",
+      "PayerName": "BMC HealthNet Plan"
+    },
+    {
+      "PayerCode": "01025",
+      "PayerName": "Boon Group"
+    },
+    {
+      "PayerCode": "00420",
+      "PayerName": "Boon-Chapman Benefit Admin"
+    },
+    {
+      "PayerCode": "00222",
+      "PayerName": "Bravo Health, Inc."
+    },
+    {
+      "PayerCode": "000952",
+      "PayerName": "BRIDGESPAN"
+    },
+    {
+      "PayerCode": "00353",
+      "PayerName": "Bridgeway Arizona"
+    },
+    {
+      "PayerCode": "01026",
+      "PayerName": "Bright Health"
+    },
+    {
+      "PayerCode": "01338",
+      "PayerName": "Bright Health Medicare Advantage"
+    },
+    {
+      "PayerCode": "BO00027",
+      "PayerName": "BRIGHT HEALTH PHYSICIANS/-BO"
+    },
+    {
+      "PayerCode": "00354",
+      "PayerName": "Buckeye Community Health"
+    },
+    {
+      "PayerCode": "DE0071",
+      "PayerName": "California Medicaid - Medi-Cal Dental"
+    },
+    {
+      "PayerCode": "00059",
+      "PayerName": "California Medicaid (Medi-Cal)"
+    },
+    {
+      "PayerCode": "01029",
+      "PayerName": "CalOptima"
+    },
+    {
+      "PayerCode": "01030",
+      "PayerName": "Cal-Viva"
+    },
+    {
+      "PayerCode": "00060",
+      "PayerName": "Capital Blue Cross (Pennsylvania)"
+    },
+    {
+      "PayerCode": "00328",
+      "PayerName": "Capital District Physicians Health Plan (CDPHP)"
+    },
+    {
+      "PayerCode": "01406",
+      "PayerName": "Capital Health Plan"
+    },
+    {
+      "PayerCode": "01031",
+      "PayerName": "Capitol Administrators - EDI"
+    },
+    {
+      "PayerCode": "BO00023",
+      "PayerName": "CAPMN-BO"
+    },
+    {
+      "PayerCode": "00482",
+      "PayerName": "CAPROCK"
+    },
+    {
+      "PayerCode": "BO000469",
+      "PayerName": "Care First Health Plan-BO"
+    },
+    {
+      "PayerCode": "00891",
+      "PayerName": "Care Improvement Plus"
+    },
+    {
+      "PayerCode": "00638",
+      "PayerName": "Care1st Health Plan Arizona"
+    },
+    {
+      "PayerCode": "BO000144",
+      "PayerName": "Care1st of California - BO"
+    },
+    {
+      "PayerCode": "01402",
+      "PayerName": "Carefirst Administrators"
+    },
+    {
+      "PayerCode": "DE0062",
+      "PayerName": "Carefirst of Maryland Inc. Dental"
+    },
+    {
+      "PayerCode": "00671",
+      "PayerName": "CareMore Health Plan"
+    },
+    {
+      "PayerCode": "00223",
+      "PayerName": "CarePlus Health Plan"
+    },
+    {
+      "PayerCode": "DE0072",
+      "PayerName": "CareSource Dental"
+    },
+    {
+      "PayerCode": "00224",
+      "PayerName": "CareSource Health"
+    },
+    {
+      "PayerCode": "01358",
+      "PayerName": "CARESOURCE INDIANA"
+    },
+    {
+      "PayerCode": "01371",
+      "PayerName": "CARESOURCE KENTUCKY"
+    },
+    {
+      "PayerCode": "01372",
+      "PayerName": "CARESOURCE MEDICAID KENTUCKY"
+    },
+    {
+      "PayerCode": "01373",
+      "PayerName": "CARESOURCE MEDICARE ADVANTAGE KENTUCKY"
+    },
+    {
+      "PayerCode": "01359",
+      "PayerName": "CARESOURCE OF GEORGIA"
+    },
+    {
+      "PayerCode": "01360",
+      "PayerName": "CARESOURCE OHIO"
+    },
+    {
+      "PayerCode": "01361",
+      "PayerName": "CARESOURCE WEST VIRGINIA"
+    },
+    {
+      "PayerCode": "BO00025",
+      "PayerName": "CARMO-BO"
+    },
+    {
+      "PayerCode": "00483",
+      "PayerName": "Carolina Care Plan, Inc. (CCP)"
+    },
+    {
+      "PayerCode": "01033",
+      "PayerName": "Carpenters Health and Welfare Trust Fund of St Louis"
+    },
+    {
+      "PayerCode": "BO00036",
+      "PayerName": "CBCA Administrators-BO"
+    },
+    {
+      "PayerCode": "01034",
+      "PayerName": "CDS Group Health"
+    },
+    {
+      "PayerCode": "01035",
+      "PayerName": "Celtic Insurance"
+    },
+    {
+      "PayerCode": "00414",
+      "PayerName": "CeltiCare"
+    },
+    {
+      "PayerCode": "01036",
+      "PayerName": "CenCal"
+    },
+    {
+      "PayerCode": "00356",
+      "PayerName": "Cenpatico - Arizona"
+    },
+    {
+      "PayerCode": "00357",
+      "PayerName": "Cenpatico - Florida"
+    },
+    {
+      "PayerCode": "00358",
+      "PayerName": "Cenpatico - Georgia"
+    },
+    {
+      "PayerCode": "01037",
+      "PayerName": "Cenpatico - Illinois"
+    },
+    {
+      "PayerCode": "00359",
+      "PayerName": "Cenpatico - Indiana"
+    },
+    {
+      "PayerCode": "00360",
+      "PayerName": "Cenpatico - Kansas"
+    },
+    {
+      "PayerCode": "01038",
+      "PayerName": "Cenpatico - Kentucky"
+    },
+    {
+      "PayerCode": "00415",
+      "PayerName": "Cenpatico - Massachusetts"
+    },
+    {
+      "PayerCode": "01039",
+      "PayerName": "Cenpatico - Mississippi"
+    },
+    {
+      "PayerCode": "00640",
+      "PayerName": "Cenpatico - Missouri"
+    },
+    {
+      "PayerCode": "01040",
+      "PayerName": "Cenpatico - New Hampshire"
+    },
+    {
+      "PayerCode": "00361",
+      "PayerName": "Cenpatico - Ohio"
+    },
+    {
+      "PayerCode": "00362",
+      "PayerName": "Cenpatico - South Carolina"
+    },
+    {
+      "PayerCode": "01041",
+      "PayerName": "Cenpatico - Texas"
+    },
+    {
+      "PayerCode": "01042",
+      "PayerName": "Cenpatico - Wisconsin"
+    },
+    {
+      "PayerCode": "01043",
+      "PayerName": "Cenpatico Behavioral Health"
+    },
+    {
+      "PayerCode": "01044",
+      "PayerName": "Cenpatico Behavioral Health Texas"
+    },
+    {
+      "PayerCode": "01045",
+      "PayerName": "Centene - Advantage by Peach State"
+    },
+    {
+      "PayerCode": "01046",
+      "PayerName": "Centene - Advantage by Sunshine State"
+    },
+    {
+      "PayerCode": "01047",
+      "PayerName": "Centene - Ambetter Sunshine Health"
+    },
+    {
+      "PayerCode": "01048",
+      "PayerName": "Centene - California Health & Wellness"
+    },
+    {
+      "PayerCode": "01049",
+      "PayerName": "Centene - Coordinated Care"
+    },
+    {
+      "PayerCode": "01050",
+      "PayerName": "Centene - Granite State Health Plan"
+    },
+    {
+      "PayerCode": "01051",
+      "PayerName": "Centene - Home State Health Plan"
+    },
+    {
+      "PayerCode": "01052",
+      "PayerName": "Centene - Kentucky Spirit Health Plan"
+    },
+    {
+      "PayerCode": "01053",
+      "PayerName": "Centene - Magnolia Health Plan"
+    },
+    {
+      "PayerCode": "01054",
+      "PayerName": "Centene - Michigan Fidelis Secure Care "
+    },
+    {
+      "PayerCode": "01055",
+      "PayerName": "Centene - New Hampshire Healthy Families"
+    },
+    {
+      "PayerCode": "00385",
+      "PayerName": "Centene - Peach State Health Plan"
+    },
+    {
+      "PayerCode": "01056",
+      "PayerName": "Centene Advantage Plans"
+    },
+    {
+      "PayerCode": "01057",
+      "PayerName": "Central California Alliance for Health"
+    },
+    {
+      "PayerCode": "00363",
+      "PayerName": "Central Reserve Life Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "01058",
+      "PayerName": "Central Senior Care"
+    },
+    {
+      "PayerCode": "00315",
+      "PayerName": "Central States Fund"
+    },
+    {
+      "PayerCode": "01059",
+      "PayerName": "Central States Indemnity"
+    },
+    {
+      "PayerCode": "01060",
+      "PayerName": "Cerner Health Plan"
+    },
+    {
+      "PayerCode": "00063",
+      "PayerName": "CHAMPVA/Spina Bifida/Children of Women Vietnam Vets"
+    },
+    {
+      "PayerCode": "00313",
+      "PayerName": "CHC - Coventry Health Care Federal"
+    },
+    {
+      "PayerCode": "0009110",
+      "PayerName": "CHC - Illinois"
+    },
+    {
+      "PayerCode": "00366",
+      "PayerName": "CHC FLORIDA/VISTA/SUMMIT"
+    },
+    {
+      "PayerCode": "00014",
+      "PayerName": "CHC Nevada Altius Health Plans"
+    },
+    {
+      "PayerCode": "000958",
+      "PayerName": "CHC of Carolinas"
+    },
+    {
+      "PayerCode": "00064",
+      "PayerName": "CHC of Delaware"
+    },
+    {
+      "PayerCode": "00065",
+      "PayerName": "CHC of Georgia"
+    },
+    {
+      "PayerCode": "00066",
+      "PayerName": "CHC of Iowa"
+    },
+    {
+      "PayerCode": "00067",
+      "PayerName": "CHC of Kansas"
+    },
+    {
+      "PayerCode": "00068",
+      "PayerName": "CHC of Louisiana"
+    },
+    {
+      "PayerCode": "00069",
+      "PayerName": "CHC of Nebraska"
+    },
+    {
+      "PayerCode": "01062",
+      "PayerName": "Childrens Mercy PCN"
+    },
+    {
+      "PayerCode": "01063",
+      "PayerName": "CHP Direct"
+    },
+    {
+      "PayerCode": "00653",
+      "PayerName": "Christian Brothers Service"
+    },
+    {
+      "PayerCode": "01064",
+      "PayerName": "Christie Student Health Plans"
+    },
+    {
+      "PayerCode": "01065",
+      "PayerName": "CHRISTUS Health Plan Medicaid"
+    },
+    {
+      "PayerCode": "01066",
+      "PayerName": "CHRISTUS Health Plan New Mexico"
+    },
+    {
+      "PayerCode": "01067",
+      "PayerName": "CHRISTUS Health Plan NM Medicare Advantage"
+    },
+    {
+      "PayerCode": "01342",
+      "PayerName": "CHRISTUS Health Plan TX HIX"
+    },
+    {
+      "PayerCode": "00004",
+      "PayerName": "Cigna"
+    },
+    {
+      "PayerCode": "DE005",
+      "PayerName": "CIGNA Dental"
+    },
+    {
+      "PayerCode": "01068",
+      "PayerName": "Claims Management Service Inc"
+    },
+    {
+      "PayerCode": "01403",
+      "PayerName": "Clear Health Alliance"
+    },
+    {
+      "PayerCode": "01069",
+      "PayerName": "Clover Health - CarePoint Medicare Advantage"
+    },
+    {
+      "PayerCode": "01070",
+      "PayerName": "CMFG Life Insurance"
+    },
+    {
+      "PayerCode": "BO00037",
+      "PayerName": "CNIC-BO"
+    },
+    {
+      "PayerCode": "00894",
+      "PayerName": "Colonial Penn Life"
+    },
+    {
+      "PayerCode": "000910",
+      "PayerName": "Colonial Penn Life"
+    },
+    {
+      "PayerCode": "00070",
+      "PayerName": "Colorado Access"
+    },
+    {
+      "PayerCode": "01362",
+      "PayerName": "COLORADO COMMUNITY HEALTH ALLIANCE"
+    },
+    {
+      "PayerCode": "00071",
+      "PayerName": "Colorado Medicaid"
+    },
+    {
+      "PayerCode": "DE0073",
+      "PayerName": "Colorado Medicaid Dental"
+    },
+    {
+      "PayerCode": "00072",
+      "PayerName": "Community Care of Oklahoma"
+    },
+    {
+      "PayerCode": "01390",
+      "PayerName": "Community First Health Plans"
+    },
+    {
+      "PayerCode": "01071",
+      "PayerName": "Community Health Choice"
+    },
+    {
+      "PayerCode": "00641",
+      "PayerName": "Community Health Group"
+    },
+    {
+      "PayerCode": "00291",
+      "PayerName": "Community Health Plan of Washington"
+    },
+    {
+      "PayerCode": "00422",
+      "PayerName": "Community HealthFirst Medicare (CHF Medicare Advantage)"
+    },
+    {
+      "PayerCode": "DE006",
+      "PayerName": "CompBenefits Dental"
+    },
+    {
+      "PayerCode": "01072",
+      "PayerName": "Concentrix Insurance Solutions"
+    },
+    {
+      "PayerCode": "00423",
+      "PayerName": "ConnectiCare"
+    },
+    {
+      "PayerCode": "01073",
+      "PayerName": "ConnectiCare - Medicare"
+    },
+    {
+      "PayerCode": "00073",
+      "PayerName": "Connecticut Medicaid"
+    },
+    {
+      "PayerCode": "DE0074",
+      "PayerName": "Connecticut Medicaid Dental"
+    },
+    {
+      "PayerCode": "01074",
+      "PayerName": "Constellation Health (INMEDIATA HEALTH GROUP)"
+    },
+    {
+      "PayerCode": "01075",
+      "PayerName": "Consumers Life"
+    },
+    {
+      "PayerCode": "01076",
+      "PayerName": "Consumers Mutual Insurance of Michigan"
+    },
+    {
+      "PayerCode": "00364",
+      "PayerName": "Continental General Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "01077",
+      "PayerName": "Cook Childrenís Health Plan"
+    },
+    {
+      "PayerCode": "00074",
+      "PayerName": "Cooperative Benefit Administrators (CBA)"
+    },
+    {
+      "PayerCode": "DE007",
+      "PayerName": "Cooperative Benefit Administrators Dental"
+    },
+    {
+      "PayerCode": "00076",
+      "PayerName": "CoreSource (FMH)"
+    },
+    {
+      "PayerCode": "00077",
+      "PayerName": "CoreSource (Little Rock)"
+    },
+    {
+      "PayerCode": "00078",
+      "PayerName": "CoreSource (MD, PA, IL)"
+    },
+    {
+      "PayerCode": "00080",
+      "PayerName": "CoreSource (OH)"
+    },
+    {
+      "PayerCode": "DE008",
+      "PayerName": "Coresource Little Rock Dental"
+    },
+    {
+      "PayerCode": "00424",
+      "PayerName": "Corporate Benefit Service"
+    },
+    {
+      "PayerCode": "MD001",
+      "PayerName": "Country Life Insurance Company"
+    },
+    {
+      "PayerCode": "01078",
+      "PayerName": "CountyCare"
+    },
+    {
+      "PayerCode": "01079",
+      "PayerName": "Covenant Administrators (TPA)"
+    },
+    {
+      "PayerCode": "00082",
+      "PayerName": "Coventry Advantra Freedom - CHC Texas"
+    },
+    {
+      "PayerCode": "00229",
+      "PayerName": "COVENTRY ADVANTRA SAVINGS"
+    },
+    {
+      "PayerCode": "00083",
+      "PayerName": "Coventry Health and Life (Oklahoma)"
+    },
+    {
+      "PayerCode": "00293",
+      "PayerName": "COVENTRY HEALTH AND LIFE-NEVADA"
+    },
+    {
+      "PayerCode": "00084",
+      "PayerName": "Coventry Health Care Carelink (Advantra)"
+    },
+    {
+      "PayerCode": "00085",
+      "PayerName": "Coventry Health Care Carelink Medicaid"
+    },
+    {
+      "PayerCode": "00086",
+      "PayerName": "Coventry Health Care Carenet"
+    },
+    {
+      "PayerCode": "000933",
+      "PayerName": "COVENTRY HEALTH CARE CAROLINAS WELLPATH"
+    },
+    {
+      "PayerCode": "01337",
+      "PayerName": "COVENTRY HEALTH CARE VIRGINIA"
+    },
+    {
+      "PayerCode": "00227",
+      "PayerName": "COVENTRY HEALTH LIFE-TN ONLY"
+    },
+    {
+      "PayerCode": "00087",
+      "PayerName": "Coventry Healthcare National Network"
+    },
+    {
+      "PayerCode": "00294",
+      "PayerName": "COVENTRY MISSOURI"
+    },
+    {
+      "PayerCode": "00367",
+      "PayerName": "COVENTRYCARES"
+    },
+    {
+      "PayerCode": "000904",
+      "PayerName": "CoventryCares of Michigan"
+    },
+    {
+      "PayerCode": "00295",
+      "PayerName": "COVENTRYONE"
+    },
+    {
+      "PayerCode": "01080",
+      "PayerName": "Cox Health Plan"
+    },
+    {
+      "PayerCode": "00368",
+      "PayerName": "CSA Fraternal Live Medicare Supplement"
+    },
+    {
+      "PayerCode": "01082",
+      "PayerName": "CSI Life Insurance Company"
+    },
+    {
+      "PayerCode": "01083",
+      "PayerName": "Culinary Health Fund"
+    },
+    {
+      "PayerCode": "00425",
+      "PayerName": "DakotaCare"
+    },
+    {
+      "PayerCode": "BO000215",
+      "PayerName": "Davis Vision BO"
+    },
+    {
+      "PayerCode": "DE009",
+      "PayerName": "DBP - Americhoice (NJ/PA) / UHC (MS) Dental"
+    },
+    {
+      "PayerCode": "01084",
+      "PayerName": "Dean Health Plan"
+    },
+    {
+      "PayerCode": "DE0120",
+      "PayerName": "DeCare Dental Health Insurance"
+    },
+    {
+      "PayerCode": "01085",
+      "PayerName": "Definity Health"
+    },
+    {
+      "PayerCode": "BO00077",
+      "PayerName": "Delaware MAP-BO"
+    },
+    {
+      "PayerCode": "00455",
+      "PayerName": "Delaware Medicaid"
+    },
+    {
+      "PayerCode": "000920",
+      "PayerName": "Dell Childrens Health Plan"
+    },
+    {
+      "PayerCode": "DE0130",
+      "PayerName": "Delta Dental (Northeast) (ME NH VT)"
+    },
+    {
+      "PayerCode": "DE0131",
+      "PayerName": "Delta Dental CA FedVIP"
+    },
+    {
+      "PayerCode": "DE0132",
+      "PayerName": "Delta Dental District of Columbia"
+    },
+    {
+      "PayerCode": "DE0133",
+      "PayerName": "Delta Dental Insurance Co. (DDIC)"
+    },
+    {
+      "PayerCode": "DE0134",
+      "PayerName": "Delta Dental Massachusetts"
+    },
+    {
+      "PayerCode": "DE0136",
+      "PayerName": "Delta Dental of Alabama (DDIC)"
+    },
+    {
+      "PayerCode": "DE0138",
+      "PayerName": "Delta Dental of Arizona"
+    },
+    {
+      "PayerCode": "DE0139",
+      "PayerName": "Delta Dental of Arkansas"
+    },
+    {
+      "PayerCode": "DE0140",
+      "PayerName": "Delta Dental of California"
+    },
+    {
+      "PayerCode": "DE0141",
+      "PayerName": "Delta Dental of Delaware"
+    },
+    {
+      "PayerCode": "DE0142",
+      "PayerName": "Delta Dental of Florida (DDIC)"
+    },
+    {
+      "PayerCode": "DE0143",
+      "PayerName": "Delta Dental of Georgia (DDIC)"
+    },
+    {
+      "PayerCode": "DE0144",
+      "PayerName": "Delta Dental of Idaho"
+    },
+    {
+      "PayerCode": "DE0145",
+      "PayerName": "Delta Dental of Illinois Group Plans"
+    },
+    {
+      "PayerCode": "DE0146",
+      "PayerName": "Delta Dental of Indiana"
+    },
+    {
+      "PayerCode": "DE0147",
+      "PayerName": "Delta Dental of Iowa"
+    },
+    {
+      "PayerCode": "DE0175",
+      "PayerName": "Delta Dental of Iowa - Dental Wellness Plan"
+    },
+    {
+      "PayerCode": "DE0148",
+      "PayerName": "Delta Dental of Kansas"
+    },
+    {
+      "PayerCode": "DE0149",
+      "PayerName": "Delta Dental of Kentucky"
+    },
+    {
+      "PayerCode": "DE0150",
+      "PayerName": "Delta Dental of Louisiana (DDIC)"
+    },
+    {
+      "PayerCode": "DE0151",
+      "PayerName": "Delta Dental of Maryland and Pennsylvania"
+    },
+    {
+      "PayerCode": "DE0152",
+      "PayerName": "Delta Dental of Michigan"
+    },
+    {
+      "PayerCode": "DE0153",
+      "PayerName": "Delta Dental of Minnesota"
+    },
+    {
+      "PayerCode": "DE0154",
+      "PayerName": "Delta Dental of Mississippi (DDIC)"
+    },
+    {
+      "PayerCode": "DE0155",
+      "PayerName": "Delta Dental of Missouri"
+    },
+    {
+      "PayerCode": "DE0156",
+      "PayerName": "Delta Dental of Montana (DDIC)"
+    },
+    {
+      "PayerCode": "DE0157",
+      "PayerName": "Delta Dental of Nebraska"
+    },
+    {
+      "PayerCode": "DE0158",
+      "PayerName": "Delta Dental of Nevada (DDIC)"
+    },
+    {
+      "PayerCode": "DE0159",
+      "PayerName": "Delta Dental of New Jersey"
+    },
+    {
+      "PayerCode": "DE0160",
+      "PayerName": "Delta Dental of New Mexico"
+    },
+    {
+      "PayerCode": "DE0161",
+      "PayerName": "Delta Dental of New York"
+    },
+    {
+      "PayerCode": "DE0162",
+      "PayerName": "Delta Dental of North Carolina"
+    },
+    {
+      "PayerCode": "DE0163",
+      "PayerName": "Delta Dental of North Dakota"
+    },
+    {
+      "PayerCode": "DE0164",
+      "PayerName": "Delta Dental of Ohio"
+    },
+    {
+      "PayerCode": "DE0165",
+      "PayerName": "Delta Dental of Oklahoma"
+    },
+    {
+      "PayerCode": "DE0166",
+      "PayerName": "Delta Dental of Rhode Island"
+    },
+    {
+      "PayerCode": "DE0167",
+      "PayerName": "Delta Dental of South Carolina"
+    },
+    {
+      "PayerCode": "DE0168",
+      "PayerName": "Delta Dental of Tennessee"
+    },
+    {
+      "PayerCode": "DE0169",
+      "PayerName": "Delta Dental of Texas (DDIC)"
+    },
+    {
+      "PayerCode": "DE0170",
+      "PayerName": "Delta Dental of Utah (DDIC)"
+    },
+    {
+      "PayerCode": "DE0171",
+      "PayerName": "Delta Dental of Washington"
+    },
+    {
+      "PayerCode": "DE0172",
+      "PayerName": "Delta Dental of Washington DC"
+    },
+    {
+      "PayerCode": "DE0173",
+      "PayerName": "Delta Dental of West Virginia"
+    },
+    {
+      "PayerCode": "DE0174",
+      "PayerName": "Delta Dental of Wisconsin"
+    },
+    {
+      "PayerCode": "DE0135",
+      "PayerName": "Delta Dental Puerto Rico"
+    },
+    {
+      "PayerCode": "01086",
+      "PayerName": "DeltaCare USA - Claims"
+    },
+    {
+      "PayerCode": "01087",
+      "PayerName": "DeltaCare USA - Encounters"
+    },
+    {
+      "PayerCode": "DE0067",
+      "PayerName": "DeltaCare USA Claims Dental"
+    },
+    {
+      "PayerCode": "DE0010",
+      "PayerName": "DeltaCare USA Dental"
+    },
+    {
+      "PayerCode": "PL003",
+      "PayerName": "Delware Medical Assistance Program"
+    },
+    {
+      "PayerCode": "DE0078",
+      "PayerName": "DentaQuest - Government Plans Florida Dental"
+    },
+    {
+      "PayerCode": "DE0076",
+      "PayerName": "DentaQuest Illinois Dental"
+    },
+    {
+      "PayerCode": "DE0075",
+      "PayerName": "DentaQuest Maryland Dental"
+    },
+    {
+      "PayerCode": "DE0077",
+      "PayerName": "DentaQuest Virginia Dental"
+    },
+    {
+      "PayerCode": "DE0011",
+      "PayerName": "Dentist Direct LLC Dental"
+    },
+    {
+      "PayerCode": "00426",
+      "PayerName": "Denver Health Medical Plan"
+    },
+    {
+      "PayerCode": "00427",
+      "PayerName": "Deseret Mutual (DMBA)"
+    },
+    {
+      "PayerCode": "000701",
+      "PayerName": "Desert Mutual"
+    },
+    {
+      "PayerCode": "01363",
+      "PayerName": "DEVOTED HEALTH"
+    },
+    {
+      "PayerCode": "00088",
+      "PayerName": "Diamond Plan (Maryland Medicaid)"
+    },
+    {
+      "PayerCode": "00089",
+      "PayerName": "Director's Guild"
+    },
+    {
+      "PayerCode": "01088",
+      "PayerName": "District No. 9, I. A. of M. & A. W. Welfare Trust"
+    },
+    {
+      "PayerCode": "00231",
+      "PayerName": "District of Columbia Medicaid"
+    },
+    {
+      "PayerCode": "DE0079",
+      "PayerName": "District of Columbia Medicaid Dental"
+    },
+    {
+      "PayerCode": "01089",
+      "PayerName": "Diversified Administration Corp"
+    },
+    {
+      "PayerCode": "01090",
+      "PayerName": "Driscoll Health Plan"
+    },
+    {
+      "PayerCode": "00643",
+      "PayerName": "EBMS"
+    },
+    {
+      "PayerCode": "01091",
+      "PayerName": "Educators Mutual Insurance (EMI)"
+    },
+    {
+      "PayerCode": "00642",
+      "PayerName": "Elderplan Inc"
+    },
+    {
+      "PayerCode": "BO00038",
+      "PayerName": "ELDERPLAN-BO"
+    },
+    {
+      "PayerCode": "DE0012",
+      "PayerName": "Emblem Health Dental"
+    },
+    {
+      "PayerCode": "BO00053",
+      "PayerName": "EMBLEM HEALTH-BO"
+    },
+    {
+      "PayerCode": "000101",
+      "PayerName": "EMBLEM HEALTH-EDI"
+    },
+    {
+      "PayerCode": "01364",
+      "PayerName": "EMPIRE BC NEW YORK"
+    },
+    {
+      "PayerCode": "DE0064",
+      "PayerName": "Empire Blue Cross and Blue Shield Dental"
+    },
+    {
+      "PayerCode": "DE0063",
+      "PayerName": "Empire Blue Cross Blue Shield Dental"
+    },
+    {
+      "PayerCode": "000954",
+      "PayerName": "EMPLOYEE BENEFIT MANAGEMENT SYSTEM (EBMS)"
+    },
+    {
+      "PayerCode": "DE0013",
+      "PayerName": "Employers Health Insurance Dental"
+    },
+    {
+      "PayerCode": "01093",
+      "PayerName": "EPSI, Inc."
+    },
+    {
+      "PayerCode": "00675",
+      "PayerName": "Equitable Life Casualty Ins Co"
+    },
+    {
+      "PayerCode": "00403",
+      "PayerName": "Essence Healthcare"
+    },
+    {
+      "PayerCode": "01094",
+      "PayerName": "Evercare"
+    },
+    {
+      "PayerCode": "DE0014",
+      "PayerName": "Everence Dental"
+    },
+    {
+      "PayerCode": "01095",
+      "PayerName": "Everence Financial"
+    },
+    {
+      "PayerCode": "01096",
+      "PayerName": "Evergreen Health"
+    },
+    {
+      "PayerCode": "01097",
+      "PayerName": "Evergreen Health Co-Op"
+    },
+    {
+      "PayerCode": "01098",
+      "PayerName": "Expert Benefit Solutions"
+    },
+    {
+      "PayerCode": "00092",
+      "PayerName": "Fallon Community Health Plan"
+    },
+    {
+      "PayerCode": "01099",
+      "PayerName": "Fallon Community Health Plan (Exception)"
+    },
+    {
+      "PayerCode": "00682",
+      "PayerName": "Farm Bureau Health Plans"
+    },
+    {
+      "PayerCode": "00644",
+      "PayerName": "FCE Benefit Administrators"
+    },
+    {
+      "PayerCode": "BO00020",
+      "PayerName": "FCS01-BO"
+    },
+    {
+      "PayerCode": "00093",
+      "PayerName": "Federated Insurance Company"
+    },
+    {
+      "PayerCode": "00329",
+      "PayerName": "Fidelis Care New York"
+    },
+    {
+      "PayerCode": "DE0015",
+      "PayerName": "First Ameritas Life Insurance Corporation of New York Dental"
+    },
+    {
+      "PayerCode": "00094",
+      "PayerName": "First Ameritas of New York"
+    },
+    {
+      "PayerCode": "01100",
+      "PayerName": "First Carolina Care"
+    },
+    {
+      "PayerCode": "01101",
+      "PayerName": "First Community Health Plan"
+    },
+    {
+      "PayerCode": "000917",
+      "PayerName": "First Community Health Plans"
+    },
+    {
+      "PayerCode": "09001",
+      "PayerName": "First Health Life"
+    },
+    {
+      "PayerCode": "01102",
+      "PayerName": "First Health Network (Coventry National)"
+    },
+    {
+      "PayerCode": "01103",
+      "PayerName": "First Medical Network"
+    },
+    {
+      "PayerCode": "BO00059",
+      "PayerName": "First Priority Hlth-BO"
+    },
+    {
+      "PayerCode": "00096",
+      "PayerName": "First Reliance Standard Life"
+    },
+    {
+      "PayerCode": "DE0016",
+      "PayerName": "First Reliance Standard Life Ins. Co. (NY Business) Dental"
+    },
+    {
+      "PayerCode": "01104",
+      "PayerName": "First United American Ins.Co"
+    },
+    {
+      "PayerCode": "BO00039",
+      "PayerName": "First United American Life-BO"
+    },
+    {
+      "PayerCode": "01105",
+      "PayerName": "FirstCare"
+    },
+    {
+      "PayerCode": "PL002",
+      "PayerName": "Fiserv Health"
+    },
+    {
+      "PayerCode": "01106",
+      "PayerName": "FISERV WAUSAU"
+    },
+    {
+      "PayerCode": "00645",
+      "PayerName": "Florida Health Care Plans"
+    },
+    {
+      "PayerCode": "00098",
+      "PayerName": "Florida Medicaid"
+    },
+    {
+      "PayerCode": "DE0080",
+      "PayerName": "Florida Medicaid Dental"
+    },
+    {
+      "PayerCode": "01107",
+      "PayerName": "Food Employers & Bakery"
+    },
+    {
+      "PayerCode": "00319",
+      "PayerName": "Freedom Blue"
+    },
+    {
+      "PayerCode": "01408",
+      "PayerName": "Freedom Health Medicare Advantage"
+    },
+    {
+      "PayerCode": "01109",
+      "PayerName": "Fresenius Health Partners"
+    },
+    {
+      "PayerCode": "01110",
+      "PayerName": "Fringe Benefits"
+    },
+    {
+      "PayerCode": "01111",
+      "PayerName": "FSL Admin by KBA"
+    },
+    {
+      "PayerCode": "01112",
+      "PayerName": "G.M.P. Employers Retiree Trust"
+    },
+    {
+      "PayerCode": "000919",
+      "PayerName": "Gateway Health Plan"
+    },
+    {
+      "PayerCode": "00458",
+      "PayerName": "Geisinger Health Plan"
+    },
+    {
+      "PayerCode": "01113",
+      "PayerName": "Geisinger Health Plan Gold"
+    },
+    {
+      "PayerCode": "BO00076",
+      "PayerName": "Geisinger Health Plan-BO"
+    },
+    {
+      "PayerCode": "01114",
+      "PayerName": "GEMCare"
+    },
+    {
+      "PayerCode": "00100",
+      "PayerName": "Georgia Medicaid"
+    },
+    {
+      "PayerCode": "DE0081",
+      "PayerName": "Georgia Medicaid Dental"
+    },
+    {
+      "PayerCode": "01115",
+      "PayerName": "GHI"
+    },
+    {
+      "PayerCode": "BO00040",
+      "PayerName": "GHI/Emblem-BO"
+    },
+    {
+      "PayerCode": "00430",
+      "PayerName": "Gilsbar"
+    },
+    {
+      "PayerCode": "01117",
+      "PayerName": "Globe Life & Accident Ins.Co."
+    },
+    {
+      "PayerCode": "00647",
+      "PayerName": "Golden Rule Insurance"
+    },
+    {
+      "PayerCode": "DE0017",
+      "PayerName": "Government Employees Health Association (GEHA) Dental"
+    },
+    {
+      "PayerCode": "00101",
+      "PayerName": "Government Employees Hospital Association (GEHA)"
+    },
+    {
+      "PayerCode": "DE0019",
+      "PayerName": "Government Employees Hospital Association (GEHA) Dental"
+    },
+    {
+      "PayerCode": "DE0018",
+      "PayerName": "Government Employees Hospital Association Dental"
+    },
+    {
+      "PayerCode": "00369",
+      "PayerName": "Great American Life Assurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "00370",
+      "PayerName": "Great American Life Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "00102",
+      "PayerName": "Great West Healthcare"
+    },
+    {
+      "PayerCode": "DE0020",
+      "PayerName": "Great-West Healthcare Dental"
+    },
+    {
+      "PayerCode": "01118",
+      "PayerName": "Greek Catholic Union of the USA"
+    },
+    {
+      "PayerCode": "00264",
+      "PayerName": "GROUP & PENSION ADMINISTRATORS"
+    },
+    {
+      "PayerCode": "DE0121",
+      "PayerName": "Group Dental Services"
+    },
+    {
+      "PayerCode": "00486",
+      "PayerName": "Group Health Co-Operative"
+    },
+    {
+      "PayerCode": "01119",
+      "PayerName": "Group Health Northwest"
+    },
+    {
+      "PayerCode": "00103",
+      "PayerName": "Group Health Plan (GHP)"
+    },
+    {
+      "PayerCode": "01120",
+      "PayerName": "Group Hospitalization and Medical Services "
+    },
+    {
+      "PayerCode": "00371",
+      "PayerName": "Group Practice Affiliates"
+    },
+    {
+      "PayerCode": "BO00041",
+      "PayerName": "Group Resources-BO"
+    },
+    {
+      "PayerCode": "DE0021",
+      "PayerName": "Guardian Individual Plan Dental"
+    },
+    {
+      "PayerCode": "DE0022",
+      "PayerName": "Guardian Life Insurance Company of America Dental"
+    },
+    {
+      "PayerCode": "BO00042",
+      "PayerName": "Guardian-BO"
+    },
+    {
+      "PayerCode": "00909",
+      "PayerName": "Harken Health"
+    },
+    {
+      "PayerCode": "00372",
+      "PayerName": "Harmony Health Plan (WellCare of Florida)"
+    },
+    {
+      "PayerCode": "00104",
+      "PayerName": "Harvard Pilgrim Health Care"
+    },
+    {
+      "PayerCode": "00232",
+      "PayerName": "Hawaii Medicaid"
+    },
+    {
+      "PayerCode": "00600",
+      "PayerName": "Hawaii Medical Assurance Assoc (HMAA)"
+    },
+    {
+      "PayerCode": "00484",
+      "PayerName": "Hawaii Medical Service Assoc (HMSA)"
+    },
+    {
+      "PayerCode": "00105",
+      "PayerName": "Health Alliance Medical Plan (HAP)"
+    },
+    {
+      "PayerCode": "00648",
+      "PayerName": "Health Alliance Medical Plan (IL)"
+    },
+    {
+      "PayerCode": "BO00065",
+      "PayerName": "Health America Advantra-BO"
+    },
+    {
+      "PayerCode": "000901",
+      "PayerName": "Health America Of Pennsylvania"
+    },
+    {
+      "PayerCode": "BO00058",
+      "PayerName": "Health America Of Pennsylvania-BO"
+    },
+    {
+      "PayerCode": "00233",
+      "PayerName": "Health Choice Arizona"
+    },
+    {
+      "PayerCode": "DE0023",
+      "PayerName": "Health Choice of Arizona Dental"
+    },
+    {
+      "PayerCode": "00649",
+      "PayerName": "Health Choice Oklahoma"
+    },
+    {
+      "PayerCode": "01121",
+      "PayerName": "Health Cost Solutions"
+    },
+    {
+      "PayerCode": "000924",
+      "PayerName": "HEALTH FIRST HEALTH PLAN"
+    },
+    {
+      "PayerCode": "000925",
+      "PayerName": "HEALTH FIRST INSURANCE"
+    },
+    {
+      "PayerCode": "01369",
+      "PayerName": "Health Net Medicare Advantage"
+    },
+    {
+      "PayerCode": "00005",
+      "PayerName": "Health Net National"
+    },
+    {
+      "PayerCode": "00601",
+      "PayerName": "Health New England Eligibility Standard"
+    },
+    {
+      "PayerCode": "00317",
+      "PayerName": "Health Partners (Minnesota)"
+    },
+    {
+      "PayerCode": "00106",
+      "PayerName": "Health Partners of Philadelphia"
+    },
+    {
+      "PayerCode": "DE0024",
+      "PayerName": "Health Plan of Nevada / Sierra Health Dental"
+    },
+    {
+      "PayerCode": "00432",
+      "PayerName": "Health Plan of San Mateo"
+    },
+    {
+      "PayerCode": "01124",
+      "PayerName": "Health Plan of Upper Ohio Valley"
+    },
+    {
+      "PayerCode": "01125",
+      "PayerName": "HEALTH SERVICES CHILDREN SPECIAL NEEDS"
+    },
+    {
+      "PayerCode": "01126",
+      "PayerName": "Health Share / Care Oregon"
+    },
+    {
+      "PayerCode": "00107",
+      "PayerName": "HealthAmerica And HealthAssurance"
+    },
+    {
+      "PayerCode": "01370",
+      "PayerName": "HEALTHCARE HIGHWAYS"
+    },
+    {
+      "PayerCode": "00108",
+      "PayerName": "HealthCare Inc. (Promina)"
+    },
+    {
+      "PayerCode": "000955",
+      "PayerName": "HEALTHCARE MANAGEMENT ADMIN"
+    },
+    {
+      "PayerCode": "01127",
+      "PayerName": "Healthcare Management Administrators"
+    },
+    {
+      "PayerCode": "BO00054",
+      "PayerName": "HEALTHCARE PARTNERS/HERITAGE-BO"
+    },
+    {
+      "PayerCode": "BO00043",
+      "PayerName": "Healthcare Partners-BO"
+    },
+    {
+      "PayerCode": "01367",
+      "PayerName": "HEALTHCHOICE"
+    },
+    {
+      "PayerCode": "01368",
+      "PayerName": "HEALTHCHOICE SELECT"
+    },
+    {
+      "PayerCode": "01128",
+      "PayerName": "HealthComp Administrators"
+    },
+    {
+      "PayerCode": "00373",
+      "PayerName": "HEALTHe Exchange"
+    },
+    {
+      "PayerCode": "00374",
+      "PayerName": "HealthEase (WellCare of Florida)"
+    },
+    {
+      "PayerCode": "00375",
+      "PayerName": "HealthEase Kids (WellCare of Florida)"
+    },
+    {
+      "PayerCode": "01129",
+      "PayerName": "HealthEZ"
+    },
+    {
+      "PayerCode": "00110",
+      "PayerName": "Healthfirst New York"
+    },
+    {
+      "PayerCode": "00234",
+      "PayerName": "Healthfirst of New Jersey"
+    },
+    {
+      "PayerCode": "01130",
+      "PayerName": "Healthgram (Primary PhysiciansCare)"
+    },
+    {
+      "PayerCode": "00138",
+      "PayerName": "HealthMarkets: Mid West National Life Insurance"
+    },
+    {
+      "PayerCode": "00326",
+      "PayerName": "Healthnow"
+    },
+    {
+      "PayerCode": "DE0025",
+      "PayerName": "HealthPartners MN Dental"
+    },
+    {
+      "PayerCode": "00651",
+      "PayerName": "HealthPlan of Nevada"
+    },
+    {
+      "PayerCode": "000957",
+      "PayerName": "HEALTHPLANS INC"
+    },
+    {
+      "PayerCode": "DE0026",
+      "PayerName": "Healthplex Inc. Dental"
+    },
+    {
+      "PayerCode": "00111",
+      "PayerName": "HealthPlus of Michigan"
+    },
+    {
+      "PayerCode": "BO00044",
+      "PayerName": "HealthPlus-BO"
+    },
+    {
+      "PayerCode": "00652",
+      "PayerName": "HealthScope"
+    },
+    {
+      "PayerCode": "01132",
+      "PayerName": "HealthSmart Benefit Solutions"
+    },
+    {
+      "PayerCode": "00342",
+      "PayerName": "HealthSpring"
+    },
+    {
+      "PayerCode": "01134",
+      "PayerName": "HealthTeam Advantage"
+    },
+    {
+      "PayerCode": "01375",
+      "PayerName": "HEALTHY BLUE LOUISIANA"
+    },
+    {
+      "PayerCode": "00684",
+      "PayerName": "Heartland National Life Ins Co"
+    },
+    {
+      "PayerCode": "01135",
+      "PayerName": "Heritage Physician Network (Houston)"
+    },
+    {
+      "PayerCode": "01136",
+      "PayerName": "Highmark Senior Solutions"
+    },
+    {
+      "PayerCode": "00965",
+      "PayerName": "HIP NEW YORK"
+    },
+    {
+      "PayerCode": "00235",
+      "PayerName": "HIPNY"
+    },
+    {
+      "PayerCode": "01138",
+      "PayerName": "HM Care Advantage Admin by KBA"
+    },
+    {
+      "PayerCode": "01139",
+      "PayerName": "HMA (Hawaii Mainland Administrators)"
+    },
+    {
+      "PayerCode": "00433",
+      "PayerName": "Hometown Health"
+    },
+    {
+      "PayerCode": "BO00060",
+      "PayerName": "HOP-BO"
+    },
+    {
+      "PayerCode": "DE0128",
+      "PayerName": "Horizon Healthcare Dental Services"
+    },
+    {
+      "PayerCode": "00297",
+      "PayerName": "Horizon New Jersey Health"
+    },
+    {
+      "PayerCode": "01140",
+      "PayerName": "HSBS Oklahoma City"
+    },
+    {
+      "PayerCode": "01141",
+      "PayerName": "Hudson Health Plan"
+    },
+    {
+      "PayerCode": "00112",
+      "PayerName": "Humana"
+    },
+    {
+      "PayerCode": "01142",
+      "PayerName": "Humana CareSource (KY)"
+    },
+    {
+      "PayerCode": "DE0027",
+      "PayerName": "Humana Dental"
+    },
+    {
+      "PayerCode": "01327",
+      "PayerName": "HUMANA LONG TERM CARE"
+    },
+    {
+      "PayerCode": "00678",
+      "PayerName": "IBEW Local 508 Health Plan"
+    },
+    {
+      "PayerCode": "01143",
+      "PayerName": "iCare (Independent Care Health Plan)"
+    },
+    {
+      "PayerCode": "00113",
+      "PayerName": "Idaho Medicaid"
+    },
+    {
+      "PayerCode": "DE0082",
+      "PayerName": "Idaho Medicaid Dental"
+    },
+    {
+      "PayerCode": "01144",
+      "PayerName": "Ideal Life Insurance"
+    },
+    {
+      "PayerCode": "00690",
+      "PayerName": "Illinicare Health Plan"
+    },
+    {
+      "PayerCode": "00114",
+      "PayerName": "Illinois Medicaid"
+    },
+    {
+      "PayerCode": "DE0083",
+      "PayerName": "Illinois Medicaid Dental"
+    },
+    {
+      "PayerCode": "00435",
+      "PayerName": "Independence Administrators"
+    },
+    {
+      "PayerCode": "00115",
+      "PayerName": "Independence Blue Cross (Pennsylvania)"
+    },
+    {
+      "PayerCode": "00436",
+      "PayerName": "Independent Health"
+    },
+    {
+      "PayerCode": "00116",
+      "PayerName": "Indiana Medicaid"
+    },
+    {
+      "PayerCode": "DE0084",
+      "PayerName": "Indiana Medicaid Dental"
+    },
+    {
+      "PayerCode": "000916",
+      "PayerName": "Indiana University Health Plan"
+    },
+    {
+      "PayerCode": "00236",
+      "PayerName": "Inland Empire Health"
+    },
+    {
+      "PayerCode": "01146",
+      "PayerName": "Insurers Administrative Corporation (IAC)"
+    },
+    {
+      "PayerCode": "01147",
+      "PayerName": "INTEGRA Administrative Group"
+    },
+    {
+      "PayerCode": "00376",
+      "PayerName": "Integrated Mental Health Services"
+    },
+    {
+      "PayerCode": "BO00045",
+      "PayerName": "International Services-BO"
+    },
+    {
+      "PayerCode": "00117",
+      "PayerName": "InterValley Health Plan"
+    },
+    {
+      "PayerCode": "00118",
+      "PayerName": "Iowa Medicaid"
+    },
+    {
+      "PayerCode": "DE0085",
+      "PayerName": "Iowa Medicaid Dental"
+    },
+    {
+      "PayerCode": "01374",
+      "PayerName": "IOWA TOTAL CARE"
+    },
+    {
+      "PayerCode": "01150",
+      "PayerName": "Island Home Insurance"
+    },
+    {
+      "PayerCode": "BO000321",
+      "PayerName": "IU Health Plans"
+    },
+    {
+      "PayerCode": "00237",
+      "PayerName": "Jackson Memorial Hospital Health Plan"
+    },
+    {
+      "PayerCode": "01151",
+      "PayerName": "Jai Medical Systems"
+    },
+    {
+      "PayerCode": "00437",
+      "PayerName": "John Hopkins Health Plan"
+    },
+    {
+      "PayerCode": "01409",
+      "PayerName": "John Hopkins US Family Health Plan"
+    },
+    {
+      "PayerCode": "01152",
+      "PayerName": "Johns Hopkins HealthCare LLC"
+    },
+    {
+      "PayerCode": "00121",
+      "PayerName": "Kaiser Foundation Health Plan of Colorado"
+    },
+    {
+      "PayerCode": "00122",
+      "PayerName": "Kaiser Foundation Health Plan of Hawaii"
+    },
+    {
+      "PayerCode": "01153",
+      "PayerName": "Kaiser Foundation Health Plan of Hawaii (DHMO Choice)"
+    },
+    {
+      "PayerCode": "00124",
+      "PayerName": "Kaiser Foundation Health Plan of the Mid-Atlantic"
+    },
+    {
+      "PayerCode": "00125",
+      "PayerName": "Kaiser Foundation Health Plan of the Northwest"
+    },
+    {
+      "PayerCode": "01340",
+      "PayerName": "KAISER FOUNDATION HEALTH PLAN WASHINGTON"
+    },
+    {
+      "PayerCode": "01341",
+      "PayerName": "KAISER FOUNDATION HEALTH PLAN WASHINGTON OPTIONS"
+    },
+    {
+      "PayerCode": "DE0028",
+      "PayerName": "Kaiser NW Dental"
+    },
+    {
+      "PayerCode": "00126",
+      "PayerName": "Kaiser Permanente of Georgia"
+    },
+    {
+      "PayerCode": "00127",
+      "PayerName": "Kaiser Permanente of Northern California"
+    },
+    {
+      "PayerCode": "00488",
+      "PayerName": "Kaiser Permanente of Southern California"
+    },
+    {
+      "PayerCode": "00128",
+      "PayerName": "Kansas Medicaid"
+    },
+    {
+      "PayerCode": "DE0086",
+      "PayerName": "Kansas Medicaid Dental"
+    },
+    {
+      "PayerCode": "01156",
+      "PayerName": "Katy Medical Group"
+    },
+    {
+      "PayerCode": "01157",
+      "PayerName": "Kemper Benefits"
+    },
+    {
+      "PayerCode": "00129",
+      "PayerName": "Kentucky Medicaid"
+    },
+    {
+      "PayerCode": "DE0087",
+      "PayerName": "Kentucky Medicaid Dental"
+    },
+    {
+      "PayerCode": "00654",
+      "PayerName": "Key Benefit Administrators (KBA)"
+    },
+    {
+      "PayerCode": "01158",
+      "PayerName": "Key Benefits Administrators (IN)"
+    },
+    {
+      "PayerCode": "01159",
+      "PayerName": "Key Healthy Partners "
+    },
+    {
+      "PayerCode": "01160",
+      "PayerName": "KeySolution"
+    },
+    {
+      "PayerCode": "01404",
+      "PayerName": "Keystone First Community Health Plan"
+    },
+    {
+      "PayerCode": "00377",
+      "PayerName": "Keystone Mercy Health Plan"
+    },
+    {
+      "PayerCode": "01161",
+      "PayerName": "Keystone VIP Choice"
+    },
+    {
+      "PayerCode": "00438",
+      "PayerName": "Kitsap Physician Services"
+    },
+    {
+      "PayerCode": "01162",
+      "PayerName": "KSKJ Life"
+    },
+    {
+      "PayerCode": "0009650",
+      "PayerName": "LA Care Health Plan"
+    },
+    {
+      "PayerCode": "BO00031",
+      "PayerName": "LAMC IPA-BO"
+    },
+    {
+      "PayerCode": "01163",
+      "PayerName": "Leggett & Platt"
+    },
+    {
+      "PayerCode": "01164",
+      "PayerName": "Leon Medical Centers Health Plan"
+    },
+    {
+      "PayerCode": "01165",
+      "PayerName": "Liberty National Life Ins.Co."
+    },
+    {
+      "PayerCode": "01166",
+      "PayerName": "LifeCare Assurance Company"
+    },
+    {
+      "PayerCode": "01167",
+      "PayerName": "Lifetime Benefit Solutions (RMSCO)"
+    },
+    {
+      "PayerCode": "01168",
+      "PayerName": "Lifewise Arizona"
+    },
+    {
+      "PayerCode": "00655",
+      "PayerName": "Lifewise Health Plan of Oregon"
+    },
+    {
+      "PayerCode": "01169",
+      "PayerName": "Lifewise Health Plan of Washington"
+    },
+    {
+      "PayerCode": "01170",
+      "PayerName": "Lincoln Financial"
+    },
+    {
+      "PayerCode": "DE0030",
+      "PayerName": "Lincoln Financial Group Dental"
+    },
+    {
+      "PayerCode": "DE0029",
+      "PayerName": "Lincoln FINANCIAL INSURANCE COMPANY Dental"
+    },
+    {
+      "PayerCode": "01171",
+      "PayerName": "Lincoln Heritage"
+    },
+    {
+      "PayerCode": "00634",
+      "PayerName": "LOCAL 1199"
+    },
+    {
+      "PayerCode": "BO00046",
+      "PayerName": "Local 272 welfare Fund-BO"
+    },
+    {
+      "PayerCode": "01172",
+      "PayerName": "LoneStar TPA"
+    },
+    {
+      "PayerCode": "00474",
+      "PayerName": "Louisiana Health Exchange"
+    },
+    {
+      "PayerCode": "01173",
+      "PayerName": "Louisiana Healthcare Connections"
+    },
+    {
+      "PayerCode": "10756",
+      "PayerName": "Louisiana Healthcare Connections - Centene"
+    },
+    {
+      "PayerCode": "00130",
+      "PayerName": "Louisiana Medicaid"
+    },
+    {
+      "PayerCode": "00378",
+      "PayerName": "Loyal American Life Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "01174",
+      "PayerName": "Loyal Christian Benefit Association"
+    },
+    {
+      "PayerCode": "01175",
+      "PayerName": "Lumico Life Insurance"
+    },
+    {
+      "PayerCode": "00676",
+      "PayerName": "Magellan Behavioral Health"
+    },
+    {
+      "PayerCode": "12260",
+      "PayerName": "Magellan Complete Care of VA"
+    },
+    {
+      "PayerCode": "01418",
+      "PayerName": "MAGELLAN HEALTH SERVICES"
+    },
+    {
+      "PayerCode": "00879",
+      "PayerName": "Magnacare"
+    },
+    {
+      "PayerCode": "BO00056",
+      "PayerName": "MAGNACARE-BO"
+    },
+    {
+      "PayerCode": "00095",
+      "PayerName": "MAIL HANDLERS BENEFIT PLAN"
+    },
+    {
+      "PayerCode": "00656",
+      "PayerName": "Maine Community Health Options"
+    },
+    {
+      "PayerCode": "00239",
+      "PayerName": "Maine Medicaid"
+    },
+    {
+      "PayerCode": "DE0088",
+      "PayerName": "Maine Medicaid Dental"
+    },
+    {
+      "PayerCode": "01176",
+      "PayerName": "Managed Care of America"
+    },
+    {
+      "PayerCode": "01177",
+      "PayerName": "Managed Health Network (MHN)"
+    },
+    {
+      "PayerCode": "00379",
+      "PayerName": "Managed Health Services Indiana"
+    },
+    {
+      "PayerCode": "00380",
+      "PayerName": "Managed Health Services Wisconsin"
+    },
+    {
+      "PayerCode": "DE0031",
+      "PayerName": "MAPFRE Dental"
+    },
+    {
+      "PayerCode": "01178",
+      "PayerName": "MAPFRE Life Puerto Rico"
+    },
+    {
+      "PayerCode": "01420",
+      "PayerName": "MARCH VISION EDI"
+    },
+    {
+      "PayerCode": "00298",
+      "PayerName": "Maricopa Care Advantage (Arizona)"
+    },
+    {
+      "PayerCode": "00299",
+      "PayerName": "Maricopa Health Plan (Arizona)"
+    },
+    {
+      "PayerCode": "00132",
+      "PayerName": "Maryland Medicaid"
+    },
+    {
+      "PayerCode": "DE0089",
+      "PayerName": "Maryland Medicaid Dental"
+    },
+    {
+      "PayerCode": "00133",
+      "PayerName": "Massachusetts Medicaid"
+    },
+    {
+      "PayerCode": "DE0090",
+      "PayerName": "Massachusetts Medicaid Dental"
+    },
+    {
+      "PayerCode": "BO00082",
+      "PayerName": "MASSHEALTH-BO"
+    },
+    {
+      "PayerCode": "BO000051",
+      "PayerName": "McLaren Health Plan Commercial"
+    },
+    {
+      "PayerCode": "01180",
+      "PayerName": "MDWise Exchange"
+    },
+    {
+      "PayerCode": "000923",
+      "PayerName": "MDWISE Medicaid Health Plans"
+    },
+    {
+      "PayerCode": "00657",
+      "PayerName": "MedBen"
+    },
+    {
+      "PayerCode": "00439",
+      "PayerName": "MedCost Benefit Services"
+    },
+    {
+      "PayerCode": "00134",
+      "PayerName": "Medica"
+    },
+    {
+      "PayerCode": "01182",
+      "PayerName": "Medica Health Plans"
+    },
+    {
+      "PayerCode": "DE0033",
+      "PayerName": "Medica of Minnesota Dental"
+    },
+    {
+      "PayerCode": "01183",
+      "PayerName": "Medica2"
+    },
+    {
+      "PayerCode": "DE0091",
+      "PayerName": "Medicaid of Nevada Dental"
+    },
+    {
+      "PayerCode": "DE0176",
+      "PayerName": "Medicaid of New York (Dental Clinics Only)"
+    },
+    {
+      "PayerCode": "01184",
+      "PayerName": "Medical Associates Health Plan/Health Choices"
+    },
+    {
+      "PayerCode": "01185",
+      "PayerName": "Medical Card System"
+    },
+    {
+      "PayerCode": "DE0034",
+      "PayerName": "Medical Card System (MCS) Dental"
+    },
+    {
+      "PayerCode": "00135",
+      "PayerName": "Medical Mutual of Ohio"
+    },
+    {
+      "PayerCode": "DE0035",
+      "PayerName": "Medical Mutual of Ohio Dental"
+    },
+    {
+      "PayerCode": "01186",
+      "PayerName": "Medicare Advantage - Pennsylvania"
+    },
+    {
+      "PayerCode": "00007",
+      "PayerName": "Medicare Part A and B"
+    },
+    {
+      "PayerCode": "01187",
+      "PayerName": "Medicare y Mucho Mas (INMEDIATA HEALTH GRP CORP)"
+    },
+    {
+      "PayerCode": "00679",
+      "PayerName": "Medico Insurance Company"
+    },
+    {
+      "PayerCode": "000959",
+      "PayerName": "MEDIGOLD HEALTH PLANS"
+    },
+    {
+      "PayerCode": "01188",
+      "PayerName": "Med-Pay Inc"
+    },
+    {
+      "PayerCode": "BO00047",
+      "PayerName": "Medsolutions-BO"
+    },
+    {
+      "PayerCode": "01189",
+      "PayerName": "MedStar Family Choice "
+    },
+    {
+      "PayerCode": "00658",
+      "PayerName": "MedStar Health Plan"
+    },
+    {
+      "PayerCode": "00243",
+      "PayerName": "Mercy Care Plan (Arizona)"
+    },
+    {
+      "PayerCode": "01190",
+      "PayerName": "MercyCare Health Plan (WI)"
+    },
+    {
+      "PayerCode": "00902",
+      "PayerName": "Meridian Health Plan of Illinois"
+    },
+    {
+      "PayerCode": "00893",
+      "PayerName": "Meritain Health"
+    },
+    {
+      "PayerCode": "BO00048",
+      "PayerName": "Meritian-BO"
+    },
+    {
+      "PayerCode": "DE0036",
+      "PayerName": "MetLife Dental"
+    },
+    {
+      "PayerCode": "00244",
+      "PayerName": "MetLife Dental Family"
+    },
+    {
+      "PayerCode": "00659",
+      "PayerName": "MetroPlus Health Plan"
+    },
+    {
+      "PayerCode": "BO00049",
+      "PayerName": "Metroplus-BO"
+    },
+    {
+      "PayerCode": "00141",
+      "PayerName": "Metropolitan Health Plan (MHP)"
+    },
+    {
+      "PayerCode": "01192",
+      "PayerName": "MHNET Behavioral Health"
+    },
+    {
+      "PayerCode": "00245",
+      "PayerName": "Michigan Medicaid"
+    },
+    {
+      "PayerCode": "DE0092",
+      "PayerName": "Michigan Medicaid Dental"
+    },
+    {
+      "PayerCode": "00440",
+      "PayerName": "Michigan Medicaid Pending Eligibility"
+    },
+    {
+      "PayerCode": "00246",
+      "PayerName": "Michigan MIChild"
+    },
+    {
+      "PayerCode": "BO00057",
+      "PayerName": "Michigan Mutual-BO"
+    },
+    {
+      "PayerCode": "00240",
+      "PayerName": "Mid Atlantic Medical Services, LLC (MAMSI)"
+    },
+    {
+      "PayerCode": "00142",
+      "PayerName": "Minnesota Medicaid"
+    },
+    {
+      "PayerCode": "DE0093",
+      "PayerName": "Minnesota Medicaid Dental"
+    },
+    {
+      "PayerCode": "01193",
+      "PayerName": "Mississippi Children's Health Insurance Program"
+    },
+    {
+      "PayerCode": "00144",
+      "PayerName": "Mississippi Medicaid"
+    },
+    {
+      "PayerCode": "DE0094",
+      "PayerName": "Mississippi Medicaid Dental"
+    },
+    {
+      "PayerCode": "00145",
+      "PayerName": "Mississippi State Employees and Teachers Health Plan"
+    },
+    {
+      "PayerCode": "01194",
+      "PayerName": "Missouri Care"
+    },
+    {
+      "PayerCode": "00146",
+      "PayerName": "Missouri Medicaid"
+    },
+    {
+      "PayerCode": "DE0095",
+      "PayerName": "Missouri Medicaid Dental"
+    },
+    {
+      "PayerCode": "00147",
+      "PayerName": "MMSI (Mayo Health)"
+    },
+    {
+      "PayerCode": "01195",
+      "PayerName": "Moda Health"
+    },
+    {
+      "PayerCode": "00148",
+      "PayerName": "Molina Healthcare of California"
+    },
+    {
+      "PayerCode": "00300",
+      "PayerName": "MOLINA HEALTHCARE OF FLORIDA"
+    },
+    {
+      "PayerCode": "00485",
+      "PayerName": "Molina Healthcare of Illinois"
+    },
+    {
+      "PayerCode": "00150",
+      "PayerName": "Molina Healthcare of Michigan"
+    },
+    {
+      "PayerCode": "00247",
+      "PayerName": "Molina Healthcare of New Mexico"
+    },
+    {
+      "PayerCode": "00151",
+      "PayerName": "Molina Healthcare of Ohio"
+    },
+    {
+      "PayerCode": "01196",
+      "PayerName": "Molina Healthcare of Puerto Rico"
+    },
+    {
+      "PayerCode": "01197",
+      "PayerName": "Molina Healthcare of South Carolina"
+    },
+    {
+      "PayerCode": "00152",
+      "PayerName": "Molina Healthcare of Texas"
+    },
+    {
+      "PayerCode": "00153",
+      "PayerName": "Molina Healthcare of Utah"
+    },
+    {
+      "PayerCode": "00154",
+      "PayerName": "Molina Healthcare of Washington"
+    },
+    {
+      "PayerCode": "01198",
+      "PayerName": "Molina Healthcare of Wisconsin"
+    },
+    {
+      "PayerCode": "00248",
+      "PayerName": "Montana Medicaid"
+    },
+    {
+      "PayerCode": "DE0097",
+      "PayerName": "Montana Medicaid - DPHHS/Health Policy Services Division Dental"
+    },
+    {
+      "PayerCode": "DE0096",
+      "PayerName": "Montana Medicaid Dental"
+    },
+    {
+      "PayerCode": "01199",
+      "PayerName": "Montefiore CMO"
+    },
+    {
+      "PayerCode": "BO00064",
+      "PayerName": "Monumental Life Insurance Co-BO"
+    },
+    {
+      "PayerCode": "01365",
+      "PayerName": "MORECARE"
+    },
+    {
+      "PayerCode": "00320",
+      "PayerName": "Mountain State"
+    },
+    {
+      "PayerCode": "BO00016",
+      "PayerName": "MPM10-BO"
+    },
+    {
+      "PayerCode": "01200",
+      "PayerName": "Municipal Health Benefit Fund"
+    },
+    {
+      "PayerCode": "01201",
+      "PayerName": "Mutual Health Services"
+    },
+    {
+      "PayerCode": "00155",
+      "PayerName": "Mutual of Omaha"
+    },
+    {
+      "PayerCode": "00156",
+      "PayerName": "MVP Health Care (New York)"
+    },
+    {
+      "PayerCode": "DE0032",
+      "PayerName": "MVP Health Plan of New York Dental"
+    },
+    {
+      "PayerCode": "00157",
+      "PayerName": "National Association of Letter Carriers (NALC)"
+    },
+    {
+      "PayerCode": "01203",
+      "PayerName": "National Telecommunications Cooperative Association (NTCA)"
+    },
+    {
+      "PayerCode": "BO00073",
+      "PayerName": "Nationwide Mutual Insurance-BO"
+    },
+    {
+      "PayerCode": "01204",
+      "PayerName": "Nebraska Medicaid "
+    },
+    {
+      "PayerCode": "01205",
+      "PayerName": "Nebraska Total Care"
+    },
+    {
+      "PayerCode": "00500",
+      "PayerName": "NEHEN - Neighborhood Health Plans"
+    },
+    {
+      "PayerCode": "00249",
+      "PayerName": "Neighborhood Health Partnership"
+    },
+    {
+      "PayerCode": "00502",
+      "PayerName": "Neighborhood Health Plan RI"
+    },
+    {
+      "PayerCode": "009012",
+      "PayerName": "Network Health Insurance Corp"
+    },
+    {
+      "PayerCode": "00466",
+      "PayerName": "Network Health Plan of WI"
+    },
+    {
+      "PayerCode": "00159",
+      "PayerName": "Nevada Medicaid"
+    },
+    {
+      "PayerCode": "DE0098",
+      "PayerName": "Nevada Medicaid - First Health Services Corp Dental"
+    },
+    {
+      "PayerCode": "000902",
+      "PayerName": "New Era Insurance Company"
+    },
+    {
+      "PayerCode": "01339",
+      "PayerName": "New Era Insurance Company -EDU"
+    },
+    {
+      "PayerCode": "BO00074",
+      "PayerName": "New Era Insurance Company-BO"
+    },
+    {
+      "PayerCode": "00160",
+      "PayerName": "New Hampshire Medicaid"
+    },
+    {
+      "PayerCode": "DE0099",
+      "PayerName": "New Hampshire Medicaid Dental"
+    },
+    {
+      "PayerCode": "00161",
+      "PayerName": "New Jersey Medicaid"
+    },
+    {
+      "PayerCode": "DE0100",
+      "PayerName": "New Jersey Medicaid Dental"
+    },
+    {
+      "PayerCode": "01207",
+      "PayerName": "New Mexico Health Connections"
+    },
+    {
+      "PayerCode": "00162",
+      "PayerName": "New Mexico Medicaid"
+    },
+    {
+      "PayerCode": "DE0101",
+      "PayerName": "New Mexico Medicaid Dental"
+    },
+    {
+      "PayerCode": "00163",
+      "PayerName": "New York Medicaid"
+    },
+    {
+      "PayerCode": "DE0102",
+      "PayerName": "New York Medicaid Dental"
+    },
+    {
+      "PayerCode": "BO00030",
+      "PayerName": "NMM01-BO"
+    },
+    {
+      "PayerCode": "00164",
+      "PayerName": "North Carolina Medicaid"
+    },
+    {
+      "PayerCode": "DE0103",
+      "PayerName": "North Carolina Medicaid Dental"
+    },
+    {
+      "PayerCode": "00250",
+      "PayerName": "North Dakota Medicaid"
+    },
+    {
+      "PayerCode": "DE0104",
+      "PayerName": "North Dakota Medicaid Dental"
+    },
+    {
+      "PayerCode": "01208",
+      "PayerName": "Northwest Administrators"
+    },
+    {
+      "PayerCode": "00441",
+      "PayerName": "Nova Healthcare Administrators"
+    },
+    {
+      "PayerCode": "00335",
+      "PayerName": "NovaSys Health"
+    },
+    {
+      "PayerCode": "DE0122",
+      "PayerName": "OH Dental / UHC Dental Government Programs"
+    },
+    {
+      "PayerCode": "00383",
+      "PayerName": "Ohana Health Plan (WellCare of Hawaii)"
+    },
+    {
+      "PayerCode": "00165",
+      "PayerName": "Ohio Medicaid"
+    },
+    {
+      "PayerCode": "DE0105",
+      "PayerName": "Ohio Medicaid Dental"
+    },
+    {
+      "PayerCode": "01209",
+      "PayerName": "Oklahoma Employees Group Insurance Division"
+    },
+    {
+      "PayerCode": "00166",
+      "PayerName": "Oklahoma Medicaid"
+    },
+    {
+      "PayerCode": "DE0106",
+      "PayerName": "Oklahoma Medicaid Dental"
+    },
+    {
+      "PayerCode": "01323",
+      "PayerName": "Old Surety Life Insurance Co"
+    },
+    {
+      "PayerCode": "00167",
+      "PayerName": "OmniCare (Michigan)"
+    },
+    {
+      "PayerCode": "BO000218",
+      "PayerName": "ONE CARE BO"
+    },
+    {
+      "PayerCode": "000956",
+      "PayerName": "OPERATING ENGINEERS LOCAL 428"
+    },
+    {
+      "PayerCode": "01210",
+      "PayerName": "Operating Engineers Local No.428"
+    },
+    {
+      "PayerCode": "00310",
+      "PayerName": "Optima/Sentara"
+    },
+    {
+      "PayerCode": "01211",
+      "PayerName": "Orange County Fire Authority"
+    },
+    {
+      "PayerCode": "00168",
+      "PayerName": "Oregon Medicaid"
+    },
+    {
+      "PayerCode": "DE0107",
+      "PayerName": "Oregon Medicaid Dental"
+    },
+    {
+      "PayerCode": "01212",
+      "PayerName": "Oregonís Health CO-OP"
+    },
+    {
+      "PayerCode": "01213",
+      "PayerName": "Oscar Health EDI"
+    },
+    {
+      "PayerCode": "00169",
+      "PayerName": "Oxford Health Plans"
+    },
+    {
+      "PayerCode": "BO00015",
+      "PayerName": "PA513-BO"
+    },
+    {
+      "PayerCode": "00442",
+      "PayerName": "Pacific Source Health Plan"
+    },
+    {
+      "PayerCode": "00304",
+      "PayerName": "PacifiCare (PPO)"
+    },
+    {
+      "PayerCode": "DE0123",
+      "PayerName": "Pacificare Dental and Vision HMO"
+    },
+    {
+      "PayerCode": "DE0124",
+      "PayerName": "Pacificare Dental and Vision PPO"
+    },
+    {
+      "PayerCode": "00254",
+      "PayerName": "PacifiCare of Arizona (HMO)"
+    },
+    {
+      "PayerCode": "00008",
+      "PayerName": "PacifiCare Of California"
+    },
+    {
+      "PayerCode": "00255",
+      "PayerName": "PacifiCare of Colorado (HMO)"
+    },
+    {
+      "PayerCode": "00170",
+      "PayerName": "PacifiCare Of Oklahoma"
+    },
+    {
+      "PayerCode": "00251",
+      "PayerName": "PACIFICARE OF OREGON"
+    },
+    {
+      "PayerCode": "00252",
+      "PayerName": "PACIFICARE OF TEXAS"
+    },
+    {
+      "PayerCode": "00253",
+      "PayerName": "PACIFICARE OF WASHINGTON"
+    },
+    {
+      "PayerCode": "00977",
+      "PayerName": "PacificSource Administrators"
+    },
+    {
+      "PayerCode": "01214",
+      "PayerName": "PacificSource Community Solutions (Medicaid)"
+    },
+    {
+      "PayerCode": "01215",
+      "PayerName": "PacificSource Medicare"
+    },
+    {
+      "PayerCode": "00660",
+      "PayerName": "Pan-American Life Insurance"
+    },
+    {
+      "PayerCode": "01216",
+      "PayerName": "Panamerican Life Puerto Rico (PALIC)"
+    },
+    {
+      "PayerCode": "BO00014",
+      "PayerName": "PAPER-BO"
+    },
+    {
+      "PayerCode": "01217",
+      "PayerName": "Paramount Health"
+    },
+    {
+      "PayerCode": "000921",
+      "PayerName": "Paramount Health Care"
+    },
+    {
+      "PayerCode": "00444",
+      "PayerName": "Partners National Health Plans of NC"
+    },
+    {
+      "PayerCode": "00256",
+      "PayerName": "Partnership Health Plan of California"
+    },
+    {
+      "PayerCode": "00384",
+      "PayerName": "Passport Advantage"
+    },
+    {
+      "PayerCode": "00257",
+      "PayerName": "Passport Health Plan"
+    },
+    {
+      "PayerCode": "BO000216",
+      "PayerName": "Peak Pace Solution LLC BO"
+    },
+    {
+      "PayerCode": "01218",
+      "PayerName": "Pekin Life Insurance"
+    },
+    {
+      "PayerCode": "01219",
+      "PayerName": "Penn Treaty Network America Ins Medicare Supp"
+    },
+    {
+      "PayerCode": "DE0065",
+      "PayerName": "Pennsylvania Blue Shield (Camp Hill) Dental"
+    },
+    {
+      "PayerCode": "01220",
+      "PayerName": "Pennsylvania Health and Wellness "
+    },
+    {
+      "PayerCode": "00171",
+      "PayerName": "Pennsylvania Medicaid"
+    },
+    {
+      "PayerCode": "DE0108",
+      "PayerName": "Pennsylvania Medicaid Dental"
+    },
+    {
+      "PayerCode": "DE0109",
+      "PayerName": "Pennsylvania Medicaid Dental"
+    },
+    {
+      "PayerCode": "01221",
+      "PayerName": "People First"
+    },
+    {
+      "PayerCode": "01222",
+      "PayerName": "Peoples Health"
+    },
+    {
+      "PayerCode": "000922",
+      "PayerName": "PerformCare"
+    },
+    {
+      "PayerCode": "00322",
+      "PayerName": "Personal Insurance Administrators"
+    },
+    {
+      "PayerCode": "00230",
+      "PayerName": "PERSONALCARE"
+    },
+    {
+      "PayerCode": "BO00019",
+      "PayerName": "PHYSICIANS CARE-BO"
+    },
+    {
+      "PayerCode": "01223",
+      "PayerName": "Physicians Health Plan Northern IN"
+    },
+    {
+      "PayerCode": "01224",
+      "PayerName": "Physicians Health Plan of Mid-Michigan"
+    },
+    {
+      "PayerCode": "00172",
+      "PayerName": "Physicians Mutual Insurance Company"
+    },
+    {
+      "PayerCode": "01225",
+      "PayerName": "Physicians Plus Insurance"
+    },
+    {
+      "PayerCode": "01226",
+      "PayerName": "Piedmont"
+    },
+    {
+      "PayerCode": "01227",
+      "PayerName": "Piedmont Wellstar HealthPlans"
+    },
+    {
+      "PayerCode": "01228",
+      "PayerName": "Pinnacle Claims Management "
+    },
+    {
+      "PayerCode": "01229",
+      "PayerName": "Pinnacle Physician Management Org"
+    },
+    {
+      "PayerCode": "00260",
+      "PayerName": "Pittman and Associates"
+    },
+    {
+      "PayerCode": "01230",
+      "PayerName": "Plan de Salud Hospital Menonita"
+    },
+    {
+      "PayerCode": "01231",
+      "PayerName": "Planned Administrator Inc"
+    },
+    {
+      "PayerCode": "01232",
+      "PayerName": "Prairie States "
+    },
+    {
+      "PayerCode": "01233",
+      "PayerName": "Preferred Care Partners"
+    },
+    {
+      "PayerCode": "01234",
+      "PayerName": "Preferred Health System of Kansas"
+    },
+    {
+      "PayerCode": "BO00022",
+      "PayerName": "PREFERRED IPA OF CA-BO"
+    },
+    {
+      "PayerCode": "BO00032",
+      "PayerName": "Preferred IPA-BO"
+    },
+    {
+      "PayerCode": "01235",
+      "PayerName": "Preferred Medicare Choice(PMC)(INMEDIATA HEALTH GRP)"
+    },
+    {
+      "PayerCode": "00261",
+      "PayerName": "PreferredOne"
+    },
+    {
+      "PayerCode": "DE0066",
+      "PayerName": "Premera Blue Cross Dental"
+    },
+    {
+      "PayerCode": "BO00011",
+      "PayerName": "Premier Eye Care BO"
+    },
+    {
+      "PayerCode": "00661",
+      "PayerName": "Premier Health"
+    },
+    {
+      "PayerCode": "00662",
+      "PayerName": "Prestige Health Choice"
+    },
+    {
+      "PayerCode": "00321",
+      "PayerName": "PrimeWest Health"
+    },
+    {
+      "PayerCode": "00174",
+      "PayerName": "Principal Financial Group (Nippon Life)"
+    },
+    {
+      "PayerCode": "DE0037",
+      "PayerName": "Principal Financial Group Dental"
+    },
+    {
+      "PayerCode": "DE0038",
+      "PayerName": "Principal Life Insurance Co. Dental"
+    },
+    {
+      "PayerCode": "00324",
+      "PayerName": "Priority Health"
+    },
+    {
+      "PayerCode": "00268",
+      "PayerName": "PROFESSIONAL BENEFITS ADMIN (IL)"
+    },
+    {
+      "PayerCode": "01237",
+      "PayerName": "Prominence Health Plan (PPO & HMO)"
+    },
+    {
+      "PayerCode": "01238",
+      "PayerName": "Prominence Health Plan of Nevada (Medicare Advantage)"
+    },
+    {
+      "PayerCode": "01239",
+      "PayerName": "Prominence Health Plan of Texas (Medicare Advantage)"
+    },
+    {
+      "PayerCode": "00262",
+      "PayerName": "Providence Health Plan"
+    },
+    {
+      "PayerCode": "00386",
+      "PayerName": "Provident American Life & Health Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "01240",
+      "PayerName": "Public Employee Benefit Authority "
+    },
+    {
+      "PayerCode": "00445",
+      "PayerName": "Public Employees Health Plan (PEHP)"
+    },
+    {
+      "PayerCode": "01241",
+      "PayerName": "Public Employees Health Program - CHIP"
+    },
+    {
+      "PayerCode": "01242",
+      "PayerName": "Public Employees Health Program - Medicare"
+    },
+    {
+      "PayerCode": "00263",
+      "PayerName": "Puerto Rico Medicaid (ODSI)"
+    },
+    {
+      "PayerCode": "01243",
+      "PayerName": "Puritan Life Insurance"
+    },
+    {
+      "PayerCode": "00663",
+      "PayerName": "QualCare"
+    },
+    {
+      "PayerCode": "00402",
+      "PayerName": "Qualchoice"
+    },
+    {
+      "PayerCode": "01343",
+      "PayerName": "Quartz ASO"
+    },
+    {
+      "PayerCode": "00387",
+      "PayerName": "QuikTrip Corporation"
+    },
+    {
+      "PayerCode": "BO00021",
+      "PayerName": "REGAL-BO"
+    },
+    {
+      "PayerCode": "01244",
+      "PayerName": "Regence Group Administration"
+    },
+    {
+      "PayerCode": "00176",
+      "PayerName": "Reliance Standard Life"
+    },
+    {
+      "PayerCode": "DE0039",
+      "PayerName": "Reliance Standard Life Insurance Company Dental"
+    },
+    {
+      "PayerCode": "000960",
+      "PayerName": "Rhode Island Medicaid"
+    },
+    {
+      "PayerCode": "01246",
+      "PayerName": "RightCare from Scott and White Health Plan"
+    },
+    {
+      "PayerCode": "00270",
+      "PayerName": "Rocky Mountain Health Plan"
+    },
+    {
+      "PayerCode": "01248",
+      "PayerName": "Royal Neighbors of America"
+    },
+    {
+      "PayerCode": "01249",
+      "PayerName": "S and S Healthcare Strategies"
+    },
+    {
+      "PayerCode": "01250",
+      "PayerName": "S. USA Life Insurance Company, Inc. "
+    },
+    {
+      "PayerCode": "00271",
+      "PayerName": "San Francisco Health Plan - CA"
+    },
+    {
+      "PayerCode": "00272",
+      "PayerName": "San Joaquin Health Plan"
+    },
+    {
+      "PayerCode": "00400",
+      "PayerName": "Sanford Health Plan"
+    },
+    {
+      "PayerCode": "01252",
+      "PayerName": "Santa Clara Family Health Plan"
+    },
+    {
+      "PayerCode": "00446",
+      "PayerName": "Santa Clara Valley Health and Hospital"
+    },
+    {
+      "PayerCode": "01253",
+      "PayerName": "SBLI USA Life Insurance Company, Inc."
+    },
+    {
+      "PayerCode": "00177",
+      "PayerName": "SCAN HMO"
+    },
+    {
+      "PayerCode": "01254",
+      "PayerName": "Schaller Anderson Aetna Better Health of New York"
+    },
+    {
+      "PayerCode": "01255",
+      "PayerName": "Schaller Anderson Aetna Better Health OH"
+    },
+    {
+      "PayerCode": "01256",
+      "PayerName": "Schaller Anderson Delaware Physicians, Inc"
+    },
+    {
+      "PayerCode": "01257",
+      "PayerName": "Schaller Anderson Maryland Physicians Care"
+    },
+    {
+      "PayerCode": "01258",
+      "PayerName": "Schaller Anderson Mercy Care"
+    },
+    {
+      "PayerCode": "01259",
+      "PayerName": "Schaller Anderson Mercy Maricopa"
+    },
+    {
+      "PayerCode": "01260",
+      "PayerName": "Schaller Anderson Missouri Care"
+    },
+    {
+      "PayerCode": "01261",
+      "PayerName": "Schaller Anderson Parkland Community Health Plan"
+    },
+    {
+      "PayerCode": "00305",
+      "PayerName": "Scott White Health Plan"
+    },
+    {
+      "PayerCode": "DE0040",
+      "PayerName": "Securian Dental"
+    },
+    {
+      "PayerCode": "BO00068",
+      "PayerName": "Security Blue-BO"
+    },
+    {
+      "PayerCode": "01262",
+      "PayerName": "Security Health Plan"
+    },
+    {
+      "PayerCode": "00388",
+      "PayerName": "Select Health of South Carolina"
+    },
+    {
+      "PayerCode": "00447",
+      "PayerName": "Select Health Utah"
+    },
+    {
+      "PayerCode": "01263",
+      "PayerName": "Select Senior Clinic"
+    },
+    {
+      "PayerCode": "01264",
+      "PayerName": "SelectCare of Texas (Beaumont)"
+    },
+    {
+      "PayerCode": "01265",
+      "PayerName": "SelectCare of Texas (Golden Triangle)"
+    },
+    {
+      "PayerCode": "01266",
+      "PayerName": "SelectCare of Texas (Houston)"
+    },
+    {
+      "PayerCode": "01267",
+      "PayerName": "SelectCare of Texas (Integranet)"
+    },
+    {
+      "PayerCode": "01268",
+      "PayerName": "SelectCare of Texas (Kelsey-Seybold)"
+    },
+    {
+      "PayerCode": "01269",
+      "PayerName": "SelectCare of Texas (Memorial Clinical Assoc)"
+    },
+    {
+      "PayerCode": "01270",
+      "PayerName": "SelectCare of Texas (Northwest Diagnostic)"
+    },
+    {
+      "PayerCode": "01271",
+      "PayerName": "Selman & Company"
+    },
+    {
+      "PayerCode": "01272",
+      "PayerName": "Senior Dimensions"
+    },
+    {
+      "PayerCode": "01273",
+      "PayerName": "Senior Health Services Center-Univ American Family Co."
+    },
+    {
+      "PayerCode": "01274",
+      "PayerName": "Senior Whole Health"
+    },
+    {
+      "PayerCode": "000777",
+      "PayerName": "Sharp Health Plan"
+    },
+    {
+      "PayerCode": "01275",
+      "PayerName": "Shenandoah Life Insurance"
+    },
+    {
+      "PayerCode": "00473",
+      "PayerName": "Sierra Health Service"
+    },
+    {
+      "PayerCode": "00091",
+      "PayerName": "Significa Benefit Services"
+    },
+    {
+      "PayerCode": "01276",
+      "PayerName": "Silver Summit Health Plan"
+    },
+    {
+      "PayerCode": "00665",
+      "PayerName": "Simply Healthcare Plans"
+    },
+    {
+      "PayerCode": "01277",
+      "PayerName": "SisCo Benefits"
+    },
+    {
+      "PayerCode": "00666",
+      "PayerName": "Soundpath Health"
+    },
+    {
+      "PayerCode": "BO00029",
+      "PayerName": "SOUTH ATLANTIC MED. GRP.-BO"
+    },
+    {
+      "PayerCode": "00273",
+      "PayerName": "South Carolina Medicaid"
+    },
+    {
+      "PayerCode": "DE0110",
+      "PayerName": "South Carolina Medicaid Dental"
+    },
+    {
+      "PayerCode": "00179",
+      "PayerName": "South Dakota Medicaid"
+    },
+    {
+      "PayerCode": "01278",
+      "PayerName": "Southeastern Indiana Health Organization"
+    },
+    {
+      "PayerCode": "00180",
+      "PayerName": "Southern Health Services (SHS)"
+    },
+    {
+      "PayerCode": "BO000521",
+      "PayerName": "Southwest Service Administrator"
+    },
+    {
+      "PayerCode": "00389",
+      "PayerName": "Special Agents Mutual Benefit Association"
+    },
+    {
+      "PayerCode": "01419",
+      "PayerName": "SPECTERA VISION EDI"
+    },
+    {
+      "PayerCode": "01279",
+      "PayerName": "Spectrum Health"
+    },
+    {
+      "PayerCode": "00390",
+      "PayerName": "SPJST Medicare Supplement"
+    },
+    {
+      "PayerCode": "BO000156",
+      "PayerName": "St Joseph IPA"
+    },
+    {
+      "PayerCode": "DE0041",
+      "PayerName": "Standard Ins. Co. (OR Business) Dental"
+    },
+    {
+      "PayerCode": "00181",
+      "PayerName": "Standard Insurance"
+    },
+    {
+      "PayerCode": "00182",
+      "PayerName": "Standard Insurance of New York"
+    },
+    {
+      "PayerCode": "00416",
+      "PayerName": "Standard Life and Accident Insurance Company"
+    },
+    {
+      "PayerCode": "DE0042",
+      "PayerName": "Standard Life Insurance Company of New York Dental"
+    },
+    {
+      "PayerCode": "BO00070",
+      "PayerName": "State Farm Health Ins-BO"
+    },
+    {
+      "PayerCode": "00897",
+      "PayerName": "State Farm Ins"
+    },
+    {
+      "PayerCode": "001908",
+      "PayerName": "State Mutual (Lincoln Novation)"
+    },
+    {
+      "PayerCode": "01280",
+      "PayerName": "State Mutual Med Supp"
+    },
+    {
+      "PayerCode": "00391",
+      "PayerName": "StayWell (WellCare of Florida)"
+    },
+    {
+      "PayerCode": "00392",
+      "PayerName": "StayWell Kids (WellCare of Florida)"
+    },
+    {
+      "PayerCode": "BO00072",
+      "PayerName": "Sterling Life Insurance-BO"
+    },
+    {
+      "PayerCode": "01281",
+      "PayerName": "Stewart C Miller and Co"
+    },
+    {
+      "PayerCode": "BO00001",
+      "PayerName": "Stirling Benefits Inc-BO"
+    },
+    {
+      "PayerCode": "009201",
+      "PayerName": "Stonebridge Life Insurance Company"
+    },
+    {
+      "PayerCode": "00184",
+      "PayerName": "StudentResources"
+    },
+    {
+      "PayerCode": "00448",
+      "PayerName": "SummaCare Health Plan"
+    },
+    {
+      "PayerCode": "01284",
+      "PayerName": "Summit America Insurance Service"
+    },
+    {
+      "PayerCode": "01285",
+      "PayerName": "Sunflower State Health (Kansas)"
+    },
+    {
+      "PayerCode": "00327",
+      "PayerName": "Sunshine State Health Plan"
+    },
+    {
+      "PayerCode": "00393",
+      "PayerName": "Superior HealthPlan Texas"
+    },
+    {
+      "PayerCode": "BO00096",
+      "PayerName": "Superior Vision BO"
+    },
+    {
+      "PayerCode": "01286",
+      "PayerName": "Sutter Select"
+    },
+    {
+      "PayerCode": "BO00142",
+      "PayerName": "Tall Tree Administrators"
+    },
+    {
+      "PayerCode": "BO004",
+      "PayerName": "Teachers Health Trust -BO"
+    },
+    {
+      "PayerCode": "BO000217",
+      "PayerName": "TEAMSTERS & FOOD EMPLOYERS SECURITY BO"
+    },
+    {
+      "PayerCode": "01287",
+      "PayerName": "TennDent"
+    },
+    {
+      "PayerCode": "DE0111",
+      "PayerName": "Tennessee Medicaid - Tenncare Dental"
+    },
+    {
+      "PayerCode": "00185",
+      "PayerName": "Tennessee Medicaid (TennCare)"
+    },
+    {
+      "PayerCode": "00406",
+      "PayerName": "TexanPlus - North Texas Area"
+    },
+    {
+      "PayerCode": "00407",
+      "PayerName": "TexanPlus - Southeast Texas Area"
+    },
+    {
+      "PayerCode": "01288",
+      "PayerName": "TexanPlus (Integranet)"
+    },
+    {
+      "PayerCode": "01289",
+      "PayerName": "TexanPlus (Kelsey-Seybold)"
+    },
+    {
+      "PayerCode": "00186",
+      "PayerName": "Texas Medicaid"
+    },
+    {
+      "PayerCode": "BO00111",
+      "PayerName": "Texas Medicaid BO-BO"
+    },
+    {
+      "PayerCode": "DE0112",
+      "PayerName": "Texas Medicaid Dental"
+    },
+    {
+      "PayerCode": "00667",
+      "PayerName": "The Loomis Company"
+    },
+    {
+      "PayerCode": "01291",
+      "PayerName": "The ULLICO Family of Companies"
+    },
+    {
+      "PayerCode": "00187",
+      "PayerName": "Three Rivers Health Plans (Unison Health Plan)"
+    },
+    {
+      "PayerCode": "00683",
+      "PayerName": "Thrivent"
+    },
+    {
+      "PayerCode": "00409",
+      "PayerName": "Today's Options"
+    },
+    {
+      "PayerCode": "00901",
+      "PayerName": "Total Carolina Care"
+    },
+    {
+      "PayerCode": "BO000050",
+      "PayerName": "Total Health Care Commercial BO"
+    },
+    {
+      "PayerCode": "01292",
+      "PayerName": "TransactRX Infusion and Specialty"
+    },
+    {
+      "PayerCode": "01293",
+      "PayerName": "TransactRX Part D"
+    },
+    {
+      "PayerCode": "01294",
+      "PayerName": "Transamerica Life Insurance (KBA)"
+    },
+    {
+      "PayerCode": "01295",
+      "PayerName": "Transamerica Life Insurance Company"
+    },
+    {
+      "PayerCode": "000953",
+      "PayerName": "TRANSAMERICA LIFE INSURANCE HEALTHMARKETS"
+    },
+    {
+      "PayerCode": "01296",
+      "PayerName": "Transamerica Premier Life Insurance Co. "
+    },
+    {
+      "PayerCode": "BO10045",
+      "PayerName": "TRANSWESTERN"
+    },
+    {
+      "PayerCode": "BO10032",
+      "PayerName": "Travelers Insurance Company"
+    },
+    {
+      "PayerCode": "BO00067",
+      "PayerName": "Travelers Insurance Company-BO"
+    },
+    {
+      "PayerCode": "BO10028",
+      "PayerName": "TRI VALLEY MEDICAL GROUP"
+    },
+    {
+      "PayerCode": "BO10074",
+      "PayerName": "TRIBAL HEALTH PARTNERS"
+    },
+    {
+      "PayerCode": "00410",
+      "PayerName": "Tribute / SelectCare of Oklahoma"
+    },
+    {
+      "PayerCode": "00975",
+      "PayerName": "Tricare East"
+    },
+    {
+      "PayerCode": "009502",
+      "PayerName": "TRICARE for Life"
+    },
+    {
+      "PayerCode": "01298",
+      "PayerName": "TRICARE Overseas"
+    },
+    {
+      "PayerCode": "00009",
+      "PayerName": "Tricare West"
+    },
+    {
+      "PayerCode": "01299",
+      "PayerName": "Trillium Community Health Plan"
+    },
+    {
+      "PayerCode": "01407",
+      "PayerName": "Triple S Advantage"
+    },
+    {
+      "PayerCode": "DE0113",
+      "PayerName": "Triple-S Medicare Advantage Dental"
+    },
+    {
+      "PayerCode": "DE0043",
+      "PayerName": "Triple-S Salud Dental"
+    },
+    {
+      "PayerCode": "BO10066",
+      "PayerName": "TRISTAR RISK MANAGEMENT"
+    },
+    {
+      "PayerCode": "01379",
+      "PayerName": "True Health New Mexico"
+    },
+    {
+      "PayerCode": "DE0044",
+      "PayerName": "Trustmark Dental"
+    },
+    {
+      "PayerCode": "00189",
+      "PayerName": "Trustmark Insurance aka HOP"
+    },
+    {
+      "PayerCode": "00190",
+      "PayerName": "Tufts Health Plan"
+    },
+    {
+      "PayerCode": "BO016",
+      "PayerName": "UAW retirees medical benefits-BO"
+    },
+    {
+      "PayerCode": "00449",
+      "PayerName": "Ucare of Minnesota"
+    },
+    {
+      "PayerCode": "BO000049",
+      "PayerName": "UHA"
+    },
+    {
+      "PayerCode": "01301",
+      "PayerName": "Ultimate Health Plans"
+    },
+    {
+      "PayerCode": "DE0045",
+      "PayerName": "UMR - Cincinnati Dental"
+    },
+    {
+      "PayerCode": "DE0046",
+      "PayerName": "UMR - Harrington/Columbus Dental"
+    },
+    {
+      "PayerCode": "DE0047",
+      "PayerName": "UMR - Lexington Dental"
+    },
+    {
+      "PayerCode": "DE0048",
+      "PayerName": "UMR - Onalaska Dental"
+    },
+    {
+      "PayerCode": "DE0049",
+      "PayerName": "UMR - Sant Antonio Dental"
+    },
+    {
+      "PayerCode": "DE0050",
+      "PayerName": "UMR - Wausau/UHIS Dental"
+    },
+    {
+      "PayerCode": "00417",
+      "PayerName": "UMR Wausau"
+    },
+    {
+      "PayerCode": "01302",
+      "PayerName": "UMWA Health and Retirements Funds"
+    },
+    {
+      "PayerCode": "00269",
+      "PayerName": "UNDERWRITERS SAFETY & CLAIMS"
+    },
+    {
+      "PayerCode": "00303",
+      "PayerName": "Unicare"
+    },
+    {
+      "PayerCode": "BO10085",
+      "PayerName": "UNIFIED LIFE INSURANCE CO"
+    },
+    {
+      "PayerCode": "01303",
+      "PayerName": "Union Pacific Railroad Employees Health Systems"
+    },
+    {
+      "PayerCode": "00394",
+      "PayerName": "Union Pacific Railroad Employes Health Systems"
+    },
+    {
+      "PayerCode": "BO00069",
+      "PayerName": "Unison Administrative Services-BO"
+    },
+    {
+      "PayerCode": "00673",
+      "PayerName": "United American Ins Co"
+    },
+    {
+      "PayerCode": "DE0051",
+      "PayerName": "United Concordia - Fee for Service Dental"
+    },
+    {
+      "PayerCode": "DE0125",
+      "PayerName": "United Concordia Dental Plus"
+    },
+    {
+      "PayerCode": "BO10037",
+      "PayerName": "UNITED FOOD & COMMERCIAL WORKERS TR"
+    },
+    {
+      "PayerCode": "00192",
+      "PayerName": "United Healthcare"
+    },
+    {
+      "PayerCode": "UHG007",
+      "PayerName": "United Healthcare - Optum Behavioral Solutions"
+    },
+    {
+      "PayerCode": "UHG002",
+      "PayerName": "United Healthcare Community Plan Kansas"
+    },
+    {
+      "PayerCode": "UHG003",
+      "PayerName": "United Healthcare Community Plan Tennessee"
+    },
+    {
+      "PayerCode": "BO00075",
+      "PayerName": "United Healthcare Community Plan-BO"
+    },
+    {
+      "PayerCode": "UHG004",
+      "PayerName": "United Healthcare Facets Detroit Community and State"
+    },
+    {
+      "PayerCode": "UGH005",
+      "PayerName": "United Healthcare Facets Pittsburgh Community and State"
+    },
+    {
+      "PayerCode": "UHG006",
+      "PayerName": "United Healthcare Nevada Market"
+    },
+    {
+      "PayerCode": "UHG008",
+      "PayerName": "United Healthcare SecureHorizons"
+    },
+    {
+      "PayerCode": "UHG009",
+      "PayerName": "United Healthcare Student Resources"
+    },
+    {
+      "PayerCode": "UHG0010",
+      "PayerName": "United Healthcare- West"
+    },
+    {
+      "PayerCode": "00395",
+      "PayerName": "United Teacher Associates Insurance Company Medicare Supplement"
+    },
+    {
+      "PayerCode": "UHG001",
+      "PayerName": "UnitedHealth Group - Community Plan"
+    },
+    {
+      "PayerCode": "DE0052",
+      "PayerName": "UnitedHealthcare Community Plan TN Dental"
+    },
+    {
+      "PayerCode": "DE0053",
+      "PayerName": "UnitedHealthcare Dental"
+    },
+    {
+      "PayerCode": "00277",
+      "PayerName": "UnitedHealthcare Plan of the River Valley"
+    },
+    {
+      "PayerCode": "DE0054",
+      "PayerName": "UnitedHealthcare StudentResources Dental"
+    },
+    {
+      "PayerCode": "00450",
+      "PayerName": "Unity Health Plans"
+    },
+    {
+      "PayerCode": "00451",
+      "PayerName": "Univera"
+    },
+    {
+      "PayerCode": "01304",
+      "PayerName": "Universal American"
+    },
+    {
+      "PayerCode": "01305",
+      "PayerName": "Universal Benefit Corp"
+    },
+    {
+      "PayerCode": "00193",
+      "PayerName": "Universal Care of CA"
+    },
+    {
+      "PayerCode": "01306",
+      "PayerName": "University Care Advantage Arizona"
+    },
+    {
+      "PayerCode": "00668",
+      "PayerName": "University Care Advantage AZ"
+    },
+    {
+      "PayerCode": "00278",
+      "PayerName": "University Family Care"
+    },
+    {
+      "PayerCode": "01307",
+      "PayerName": "University of Arizona Health Plans - UHM"
+    },
+    {
+      "PayerCode": "00296",
+      "PayerName": "UNIVERSITY OF MISSOURI"
+    },
+    {
+      "PayerCode": "01308",
+      "PayerName": "University of Utah Health Plans"
+    },
+    {
+      "PayerCode": "00301",
+      "PayerName": "University Physicians Care Advantage (Arizona)"
+    },
+    {
+      "PayerCode": "00302",
+      "PayerName": "University Physicians Healthcare Group (Arizona)"
+    },
+    {
+      "PayerCode": "00452",
+      "PayerName": "UPMC Health Plan (Tristate)"
+    },
+    {
+      "PayerCode": "BO00051",
+      "PayerName": "US Family Health Plan-BO"
+    },
+    {
+      "PayerCode": "00194",
+      "PayerName": "USAA Life Insurance Company"
+    },
+    {
+      "PayerCode": "00672",
+      "PayerName": "Utah Medicaid"
+    },
+    {
+      "PayerCode": "BO00200",
+      "PayerName": "Utah Pipe Trades Welfare Trust"
+    },
+    {
+      "PayerCode": "BO00141",
+      "PayerName": "UT-ID Teamsters Security Fund"
+    },
+    {
+      "PayerCode": "00195",
+      "PayerName": "VA Fee Basis Program"
+    },
+    {
+      "PayerCode": "01309",
+      "PayerName": "VA Health Administration Center"
+    },
+    {
+      "PayerCode": "01310",
+      "PayerName": "Valley Care Program"
+    },
+    {
+      "PayerCode": "01311",
+      "PayerName": "Valley Health Plan"
+    },
+    {
+      "PayerCode": "BO00066",
+      "PayerName": "Valley Preferred-BO"
+    },
+    {
+      "PayerCode": "00396",
+      "PayerName": "Vantage Health"
+    },
+    {
+      "PayerCode": "01313",
+      "PayerName": "Vantage Health Plan,Inc"
+    },
+    {
+      "PayerCode": "BO00598",
+      "PayerName": "VBA BO"
+    },
+    {
+      "PayerCode": "00196",
+      "PayerName": "Vermont Medicaid"
+    },
+    {
+      "PayerCode": "DE0114",
+      "PayerName": "Vermont Medicaid Dental"
+    },
+    {
+      "PayerCode": "00680",
+      "PayerName": "Veteran Administrators (VA) Healthcare"
+    },
+    {
+      "PayerCode": "00955",
+      "PayerName": "VETERANS AFFAIRS FEE BASIS PROGRAM"
+    },
+    {
+      "PayerCode": "01314",
+      "PayerName": "Village Family Practice"
+    },
+    {
+      "PayerCode": "BO10075",
+      "PayerName": "VILLAGE HEALTH HCP"
+    },
+    {
+      "PayerCode": "00197",
+      "PayerName": "Virginia Medicaid"
+    },
+    {
+      "PayerCode": "DE0115",
+      "PayerName": "Virginia Medicaid Dental"
+    },
+    {
+      "PayerCode": "BO10015",
+      "PayerName": "VISION CARE PROCESSING UNIT BO"
+    },
+    {
+      "PayerCode": "BO10001",
+      "PayerName": "Vision Service Plan BO"
+    },
+    {
+      "PayerCode": "00336",
+      "PayerName": "VIVA Health"
+    },
+    {
+      "PayerCode": "00397",
+      "PayerName": "VNS CHOICE"
+    },
+    {
+      "PayerCode": "00279",
+      "PayerName": "Vytra"
+    },
+    {
+      "PayerCode": "00198",
+      "PayerName": "Washington Medicaid"
+    },
+    {
+      "PayerCode": "00453",
+      "PayerName": "Washington Medicaid (ProviderOne)"
+    },
+    {
+      "PayerCode": "DE0116",
+      "PayerName": "Washington Medicaid Dental"
+    },
+    {
+      "PayerCode": "01315",
+      "PayerName": "Washington National"
+    },
+    {
+      "PayerCode": "00401",
+      "PayerName": "WEA Trust"
+    },
+    {
+      "PayerCode": "00398",
+      "PayerName": "WEB-TPA, Inc."
+    },
+    {
+      "PayerCode": "01335",
+      "PayerName": "WELL SENSE"
+    },
+    {
+      "PayerCode": "00418",
+      "PayerName": "WellCare Health Plans"
+    },
+    {
+      "PayerCode": "BO012",
+      "PayerName": "WellMed-BO"
+    },
+    {
+      "PayerCode": "00199",
+      "PayerName": "Wellpath Select (Carolinas)"
+    },
+    {
+      "PayerCode": "00280",
+      "PayerName": "Wells Fargo Third Party Administrators, Inc. (CHIP and PEIA)"
+    },
+    {
+      "PayerCode": "01316",
+      "PayerName": "Wellsense"
+    },
+    {
+      "PayerCode": "01317",
+      "PayerName": "West Virginia Family Health Plan"
+    },
+    {
+      "PayerCode": "00200",
+      "PayerName": "West Virginia Medicaid"
+    },
+    {
+      "PayerCode": "DE0117",
+      "PayerName": "West Virginia Medicaid Dental"
+    },
+    {
+      "PayerCode": "00669",
+      "PayerName": "Western & Southern Financial Group"
+    },
+    {
+      "PayerCode": "BO10033",
+      "PayerName": "WESTERN GROWERS ASSURANCE TRUST"
+    },
+    {
+      "PayerCode": "00281",
+      "PayerName": "Western Health Advantage"
+    },
+    {
+      "PayerCode": "01318",
+      "PayerName": "Windsor Medicare Extra"
+    },
+    {
+      "PayerCode": "00201",
+      "PayerName": "Wisconsin Medicaid"
+    },
+    {
+      "PayerCode": "00286",
+      "PayerName": "Wisconsin Medicaid Chronic Disease Program"
+    },
+    {
+      "PayerCode": "DE0118",
+      "PayerName": "Wisconsin Medicaid Dental"
+    },
+    {
+      "PayerCode": "00287",
+      "PayerName": "Wisconsin Medicaid Well Woman Program"
+    },
+    {
+      "PayerCode": "00202",
+      "PayerName": "World Insurance (ARIC)"
+    },
+    {
+      "PayerCode": "01320",
+      "PayerName": "WPS Health Insurance"
+    },
+    {
+      "PayerCode": "00203",
+      "PayerName": "Writers Guild"
+    },
+    {
+      "PayerCode": "00204",
+      "PayerName": "Wyoming Medicaid"
+    },
+    {
+      "PayerCode": "DE0119",
+      "PayerName": "Wyoming Medicaid Dental"
+    },
+    {
+      "PayerCode": "BO10053",
+      "PayerName": "YORK RISK SERVICES GROUP"
+    },
+    {
+      "PayerCode": "01321",
+      "PayerName": "YourCare Health Plan"
+    },
+    {
+      "PayerCode": "BO10054",
+      "PayerName": "ZENITH INSURANCE CO"
+    },
+    {
+      "PayerCode": "BO00071",
+      "PayerName": "Zurich American Ins. Co.-BO"
+    },
+    {
+      "PayerCode": "BO00055",
+      "PayerName": "ZURICH-BO"
+    }
+  ]

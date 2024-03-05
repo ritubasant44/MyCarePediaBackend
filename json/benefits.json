@@ -1,0 +1,27 @@
+[
+  {
+    "heading": "Find the perfect doctor",
+    "description": "Search by location, specialty, insurance, language, and ratings.",
+    "image": "/images/benefitimge1.png"
+  },
+  {
+    "heading": "Book appointments in seconds",
+    "description": "Schedule online and manage them with ease.",
+    "image": "/images/benefitimge1.png"
+  },
+  {
+    "heading": "Manage your health records",
+    "description": "View and share your records securely.",
+    "image": "/images/benefitimge1.png"
+  },
+  {
+    "heading": "Simplify insurance",
+    "description": "Easily manage your insurance information and verification.",
+    "image": "/images/benefitimge1.png"
+  },
+  {
+    "heading": "Stay informed",
+    "description": "Receive appointment reminders and health updates.",
+    "image": "/images/benefitimge1.png"
+  }
+]

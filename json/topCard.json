@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "Family Medicine",
+      "text": "From routine checkups to chronic condition management, find your trusted family doctor here.",
+      "link": "abc",
+      "imageSrc": "/images/fcardimg.png",
+      "btntext": "See Providers"
+    },
+    {
+      "id": 2,
+      "title": "Cardiology",
+      "text": "Listen to your heart's needs with the expertise of a trusted cardiologist, ensuring a healthy tomorrow",
+      "link": "abc",
+      "imageSrc": "/images/fi_3974808.png",
+      "btntext": "See Providers"
+    },
+    {
+      "id": 3,
+      "title": "Dermatology",
+      "text": "Worried about rashes, acne, or aging skin? Find expert solutions for all your dermatological needs.",
+      "link": "abc",
+      "imageSrc": "/images/fi_6669505.png",
+      "btntext": "See Providers"
+    },
+    {
+      "id": 4,
+      "title": "Pediatrics",
+      "text": "Growing healthy, growing happy: Expert care for your little ones, from newborns to teens.",
+      "link": "abc",
+      "imageSrc": "/images/fi_8123597.png",
+      "btntext": "See Providers"
+    }
+  ]

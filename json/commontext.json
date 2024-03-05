@@ -1,0 +1,14 @@
+[
+    {
+        "health": "Your health",
+        "simplify": "Simplified",
+        "find": "Find the right doctor, manage appointments, and control your records. All in one place.",
+        "arrow": "Right Upward Arrow",
+        "src": "/images/toprightbanner.png"
+    },
+    {
+        "specialities": "specialities",
+        "find": "Find the Right Care For You",
+        "explore": "Explore Our Speciality"
+    }
+]

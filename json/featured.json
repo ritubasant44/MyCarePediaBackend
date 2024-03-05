@@ -1,0 +1,27 @@
+[
+    {
+        "heading": "Make your patient's life easy",
+        "description": "Offer convenient online booking, appointment reminders, and secure communication, fostering a positive patient experience.",
+        "image": "/images/benefitimge1.png"
+      },
+      {
+        "heading": "Effortlessly manage appointments",
+        "description": "Schedule, reschedule, and confirm appointments online.",
+        "image": "/images/benefitimge1.png"
+      },
+      {
+        "heading": "Streamline insurance billing",
+        "description": "Integrate with LeadRCM for hassle-free claims management.",
+        "image": "/images/benefitimge1.png"
+      },
+      {
+        "heading": "Build your online reputation",
+        "description": "Receive and respond to patient reviews.",
+        "image": "/images/benefitimge1.png"
+      },
+      {
+        "heading": "Focus on what matters",
+        "description": "Spend less time on administrative tasks and more time with patients.",
+        "image": "/images/benefitimge1.png"
+      }
+]
