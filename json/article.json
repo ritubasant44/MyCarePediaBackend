@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Our Guide to Good Health: Exploring Today's Essential Healthcare",
+        "imageUrl": "/images/article1.png",
+        "description": "Peditrician",
+        "recommendation": "Available Today",
+        "date": "31 Jan 2024",
+        "desc": "At LeadRCM, we are a trusted provider of comprehensive revenue cycle....."
+      },
+      {
+        "id": 2,
+        "title": "Our Guide to Good Health: Exploring Today's Essential Healthcare",
+        "imageUrl": "/images/article2.png",
+        "description": "Dermatology",
+        "recommendation": "Available Today",
+        "date": "31 Jan 2024",
+        "desc": "At LeadRCM, we are a trusted provider of comprehensive revenue cycle....."
+      },
+      {
+        "id": 3,
+        "title": "Our Guide to Good Health: Exploring Today's Essential Healthcare",
+        "imageUrl": "/images/article3.png",
+        "description": "Category",
+        "recommendation": "Available Today",
+        "date": "31 Jan 2024",
+        "desc": "At LeadRCM, we are a trusted provider of comprehensive revenue cycle....."
+      },
+      {
+        "id": 4,
+        "title": "Our Guide to Good Health: Exploring Today's Essential Healthcare",
+        "imageUrl": "/images/article1.png",
+        "description": "Category",
+        "recommendation": "Available Today",
+        "date": "31 Jan 2024",
+        "desc": "At LeadRCM, we are a trusted provider of comprehensive revenue cycle....."
+      }
+]

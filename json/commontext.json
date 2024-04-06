@@ -3,12 +3,49 @@
         "health": "Your health",
         "simplify": "Simplified",
         "find": "Find the right doctor, manage appointments, and control your records. All in one place.",
-        "arrow": "Right Upward Arrow",
+        "arrow": "Try MyCarePedia Now",
         "src": "/images/toprightbanner.png"
     },
     {
         "specialities": "specialities",
         "find": "Find the Right Care For You",
         "explore": "Explore Our Speciality"
+    },
+    {
+        "featured": "Featured Doctors",
+        "match": "Find Your Health Match Today",
+        "findideal":  "Find your ideal doctor effortlessly on MyCarePedia's Featured Doctors section for top-rated and new healthcare professionals."
+    },
+    {
+        "testiminials": "Testimonials",
+        "hear": "Hear What Others Are Saying",
+        "desc": "At MyCarePedia, we're passionate about making healthcare easier and more accessible. But don't just take our word for it! Hear what our satisfied patients and providers have to say."
+    },
+    {
+        "featured": "What makes us unique?",
+        "match": "MyCarePedia: Your Family’s Health Heaven",
+        "findideal":  "MyCarePedia isn't just a doctor's portal; it's a comprehensive healthcare hub designed to simplify life for everyone in the family. Whether you're managing your child's well-being or navigating your own health journey, MyCarePedia offers unique features and benefits that make a real difference:"
+    },
+    {
+        "health": "Experience the MyCarePedia difference!",
+        "find": "At MyCarePedia, we're passionate about making healthcare easier and more accessible.",
+        "arrow": "Sign Up For Free",
+        "src": "/images/experience.jpg"
+    },
+    {
+        "updates": "Our Updates",
+        "lead": "Lead RCM - Your Billing Partner",
+        "desc": "At LeadRCM, we are a trusted provider of comprehensive revenue cycle management services for Healthcare providers such as Doctors, Dentists, Therapists, Nursing Practitioners. With a deep understanding of the complex healthcare landscape, we are dedicated to optimizing your financial operations and maximizing your revenue potential. Our commitment to excellence shines through in our meticulous approach to billing, insurance follow-up, and ensure transparency by providing insightful analysis about the practice performance.",
+        "arrow": "Discover Lead RCM",
+        "src": "/images/updates.png",
+        "srcimg": "/images/leadrcm.png"
+    },
+    {
+        "bgimage": "images/footerhover.png",
+        "image": "images/footerright.png",
+        "head": "Experience the future of healthcare",
+        "buttontext": "Sign Up For Free",
+        "arrow": "/abc"
     }
+
 ]

@@ -1,0 +1,153 @@
+{
+    "menuItems": [
+      {
+        "menu": "Quick links",
+        "submenu": [
+          {
+            "name": "Home",
+            "url": "/"
+          },
+          {
+            "name": "Patient Feedback",
+            "url": "/feedback"
+          },
+          {
+            "name": "Join a Televisit",
+            "url": "/join"
+          },
+          {
+            "name": "List your Practice",
+            "url": "/practice"
+          },
+          {
+            "name": "Resource",
+            "url": "/resource"
+          },
+          {
+            "name": "Contact",
+            "url": "/contact"
+          }
+        ]
+      },
+      {
+        "menu": "Insurance Carriers",
+        "submenu": [
+          {
+            "name": "Aetna",
+            "url": "aetna"
+          },
+          {
+            "name": "Aetna Dental",
+            "url": "AetnaDental"
+          },
+          {
+            "name": "Ambetter",
+            "url": "Ambetter"
+          },
+          {
+            "name": "Anthem Blue Cross Blue Shield",
+            "url": "anthemm"
+          },
+          {
+            "name": "Blue Cross Blue Shield",
+            "url": "bluecross"
+          },
+          {
+            "name": "Blue Cross Blue Shield Dental",
+            "url": "sheild"
+          },
+          {
+            "name": "Cigna",
+            "url": "Cigna"
+          },
+          {
+            "name": "Cigna Dental",
+            "url": "sigmadental"
+          },
+          {
+            "name": "Delta Dental",
+            "url": "delta"
+          },
+          {
+            "name": "Florida Blue Cross Blue Shield",
+            "url": "floridablue"
+          }
+        ]
+      },
+      {
+        "menu": "Top Specialities",
+        "submenu": [
+          {
+            "name": "Primary Care Doctor",
+            "url": "primary"
+          },
+          {
+            "name": "Urgent Care",
+            "url": "AetnaDental"
+          },
+          {
+            "name": "Dermatologist",
+            "url": "Ambetter"
+          },
+          {
+            "name": "OB-GYN",
+            "url": "anthemm"
+          },
+          {
+            "name": "Dentist",
+            "url": "bluecross"
+          },
+          {
+            "name": "Psychiatrist",
+            "url": "sheild"
+          },
+          {
+            "name": "Ear, Nose & Throat Doctor",
+            "url": "Cigna"
+          },
+          {
+            "name": "Podiatrist",
+            "url": "sigmadental"
+          },
+          {
+            "name": "Urologist",
+            "url": "delta"
+          },
+          {
+            "name": "Cardiologist",
+            "url": "floridablue"
+          },
+          {
+            "name": "Neurologist",
+            "url": "delta"
+          },
+          {
+            "name": "Orthopedic Surgeon",
+            "url": "floridablue"
+          },
+          {
+            "name": "Ophthalmologist",
+            "url": "delta"
+          },
+          {
+            "name": "Pediatrician",
+            "url": "floridablue"
+          }
+        ]
+      },
+      {
+        "parent": "Contact us",
+        "children": [
+          {
+            "name": "info@mycarepedia.com",
+            "value": "info@mycarepedia.com"
+          },
+          {
+            "name": "987-456-132",
+            "value": "987-456-132"
+          }
+        ]
+      }
+    ]
+  }
+  

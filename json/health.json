@@ -1,0 +1,42 @@
+[
+    {
+        "heading": "Comprehensive search and match",
+        "description": "Go beyond the basics with advanced filters for specialty, language, insurance, doctor ratings, and even availability. Discover the perfect doctor for your specific needs.",
+        "image": "/images/comprehansive.png"
+      },
+      {
+        "heading": "Seamless appointment management",
+        "description": "No more juggling phone calls or emails. Schedule, reschedule, and confirm appointments online 24/7, with real-time integration to various practice management systems.",
+        "image": "/images/seamless.png"
+      },
+      {
+        "heading": "Secure and centralized records",
+        "description": "Protect your health information with HIPAA-compliant security. Store and access all your medical records, reports, images, and lab results in one convenient location.",
+        "image": "/images/secure.png"
+      },
+      {
+        "heading": "Family-friendly features",
+        "description": "Easily manage medical records for dependents (children and parents) within your account, simplifying healthcare for the entire family.",
+        "image": "/images/family.png"
+      },
+      {
+        "heading": "Empowering communication",
+        "description": "Receive appointment reminders, health updates, and personalized educational resources. Connect with your doctor through secure messaging tools.",
+        "image": "/images/empower.png"
+      },
+      {
+        "heading": "Beyond appointments",
+        "description": "MyCarePedia is more than just booking appointments. We offer a valuable platform for managing insurance information, validating coverage, and simplifying claims processing through LeadRCM integration.",
+        "image": "/images/beyond.png"
+      },
+      {
+        "heading": "Community and trust",
+        "description": "Build trust with doctor reviews and ratings. Access reliable health information through our curated library of resources.",
+        "image": "/images/community.png"
+      },
+      {
+        "heading": "Focus on affordability",
+        "description": "Choose from free and premium features to fit your needs and budget.",
+        "image": "/images/focus.png"
+      }
+]

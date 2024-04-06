@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Dr. Ashley Cole",
+        "imageUrl": "/images/Rectangle163.png",
+        "description": "Peditrician",
+        "recommendation": "Available Today"
+      },
+      {
+        "id": 2,
+        "title": "Example Card 2",
+        "imageUrl": "/images/Rectangle165.png",
+        "description": "This is an example description2",
+        "recommendation": "Highly Recommend"
+      },
+      {
+        "id": 3,
+        "title": "Example Card 3",
+        "imageUrl": "/images/Rectangle126.png",
+        "description": "This is an example description3",
+        "recommendation": "Highly Recommend"
+      },
+      {
+        "id": 4,
+        "title": "Example Card 4",
+        "imageUrl": "/images/Rectangle165.png",
+        "description": "This is an example description4",
+        "recommendation": "Highly Recommend"
+      }
+]
